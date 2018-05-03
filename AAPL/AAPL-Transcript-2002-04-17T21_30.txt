@@ -1,0 +1,879 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+F I N A L   V E R S I O N
+
+AAPL - Apple Inc.
+Q2 2002 Apple Computer Earnings Conference Call
+Apr 17, 2002 / 09:30PM  GMT 
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Nancy Paxton
+      Apple Computer - Director of Investor Relations and Corporate Finance
+   *  Peter Oppenheimer
+      Apple Computer - Senior Vice President of Finance
+   *  Fred D. Anderson
+      Apple Computer - Chief Financial Officer
+   *  Kimberly Alexy
+      Prudential Securities
+   *  Daniel Niles
+      Lehman Brothers.
+   *  Daniel Kunstler
+      J.P Morgan.
+   *  Richard Gardner
+      Salomon Smith Barney
+   *  Andrew Neff
+      Bear Stearns
+   *  David Bailey
+      Gerard, Klauer, Mattison.
+   *  Charles Wolf
+      Needham and Company
+   *  Don Young
+      UBS Warburg
+   *  Brett Miller
+      A.G. Edwards.
+   *  Steven Fortuna
+      Merrill Lynch
+   *  Richard Chu
+      SG Cowen
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Welcome to Apple Computer Conference call to discuss second quarter financial results. Today's call is being recorded. At this time for opening remarks and introduction, I would like to turn the call over to the Director of Investor Relations and Corporate Finance, Miss Nancy Paxton. Miss Paxton, please go ahead now.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [2]
+--------------------------------------------------------------------------------
+ Thank you. Good afternoon to everyone and thanks to all of you for joining us today. Apple issued its second quarter press release at approximately 1:30 p.m. Pacific Time today. The earnings press release and financials are available on First Call as well as on Apple's website at www.apple.com and speaking today is Apple's Chief Financial Officer, Fred D. Anderson. He will be joined by the Senior Vice President of Finance, Peter Oppenheimer and Vice President Incorporate Treasurer, Garry [Inaudible]  for the Question and Answer session with the analysts.
+
+
+
+ Please note that some of the information you will hear during this call consists of forward-looking statements and that actual results [Inaudible]  could differ materially from our forecast. For more information, please refer to pages 25 through 32 of Apple's latest Form 10-K for the fiscal year ended September 29, 2001. In connection with SEC rules on corporate disclosure, Apple is making this analyst call open to the media and general public by broadcasting the call live over the Internet and with that I would like to turn the call over to Fred.
+
+
+
+--------------------------------------------------------------------------------
+ Garry Vice President and Treasurer,  Apple Computer - Vice President and Treasurer   [3]
+--------------------------------------------------------------------------------
+ Thank you, Nancy, and thank you for joining us. In fiscal second quarter, Apple generated revenues of 1.5 billion dollars and earnings per share of 11 cents consistent with the guidance we issued earlier in the quarter. Revenues and units were each up 9 percent sequentially contrary to the normal seasonal decline experienced in the overall PC industry. On a year over year basis, revenues were up 4 percent and units were up 8 percent.
+
+
+
+ The highlight of the quarter was the introduction of the new iMac, which has and met with rave reviews and tremendous customer enthusiasm. We shipped a total of 220,000 units of new iMac during the quarter and has expected, exited the quarter with significant backlog. Production was fully ramped by the end of the quarter and we expect to meet our current demand forecast this quarter. Our portable products continue to sustain good momentum with combined iBook and PowerBook shipments up 22% year over year. Power Mac unit sales were flat sequentially. We shipped 57,000 iPOD units during the quarter and this product continues to generate very positive reviews. In March, we added a 10 gigabite iPOD to the lineup and provided all iPOD owners with the ability to download and store contacts with upto 1000 names and addresses right along side their  music  (ph) . Mac [Inaudible]  transition continues to gain momentum. Since the release of Mac OS X.1 six months ago, the number of OS X native applications has more than doubled. Today, there are over 3600 products running on Mac OS X. Mac OS X and its Unix foundation are driving renewed interest in Macintosh from government agencies, research universities, and scientific and technical establishment. We experienced significant sequential growth in our education channel but overall performance in this market continues to be impacted by tax revenue shortfall. We are making additional improvements in our coverage model to further expand our advocacy during the upcoming education-buying season. We continue to see significant interest in one-on-one deployment and believe that this trend works to Apple's advantage strategically. Our consumer sales accelerated throughout the quarter as we shipped the new iMac. We are encouraged by the results in this market. Last week, we began a second phase of expansion of the Apple  edge  (ph) program with COMPUSA, staffing an additional 60 locations with Apple personnel.
+
+
+
+ Our Provideo market solutions, which include some key application and hardware products, showed strong growth during the quarter. We believe that this is a function of our strong integrative products for this market rather than a fundamental economic up tick. We also added 75 more [Inaudible]  during the quarter, doubling the size of our Provideo sales channel. Pro customers in other creative markets such as advertising and publishing continue to delay purchases of Pro product in second quarter. We believe that this is a function of both the weak economy as well as our own OS transition. Photoshop 7 on Mac OS X, a key application for many of these customers began shipping yesterday and we are consequently optimistic for better results with Pro customers in the second half of the calendar year.
+
+
+
+ We continue the discipline of maintaining lean inventories and ended the quarter with about four and a half weeks of channel inventory. Excluding the new iMac, shipments of which were steered toward the end of the quarter, unit inventories were actually down 14% from the December quarter. Financial performance of Apple's retail store segment
+
+ continues to improve.
+
+
+
+ Revenues through the retail stores in March quarter totaled 70 million dollars and retail segment loss improved to 4 million dollars from 8 million dollars in the December quarter. An average of 27 stores were opened during the March quarter implying an average annualized revenue rate of over 10 million dollars per store. Opened two stores late in the quarter, bringing the grand total to 29. 1.7 million people visited our stores during the quarter. This translates into 5000 visitors per store per week. We remained very pleased with our retail strategy and firmly believe that it is helping us reach out beyond our [Inaudible]  base of customers. We are now targeting to open 20 more retail stores during the current calendar year.
+
+
+
+ We expect the financial performance of the stores to continue to improve as the year progresses. As expected, Apple's gross margins were down substantially to 27.4 percent. The decline was due to several factors - higher component cost especially for flat panels and DRAM, airfreight associated with the new iMacs, and the greater mix of iMacs relative to the December quarter.
+
+
+
+ Operating expenses were down 25 million dollars sequentially to 381 million dollars due to seasonal reductions in promotional spending and benefits from reductions and infrastructure.
+
+
+
+ Apple's balance sheet remains very strong. We ended the quarter with 4.3 billion dollars in cash and short-term investment. The cash conversion cycle remains the best in the industry at minus 41 days. Now I would like to review our outlook, which includes the types of information that Nancy referred to in the safe harbor statement at the beginning of the call. While we expect that revenues will be up sequentially in the Marched quarter to about 1.6 billion dollars, we expect EPS to be flat to up slightly compared with the March quarter due to lower gross margin. We expect gross margins to be sequentially lower due to a number of factors. First average component cost will be higher and we will not get the full benefit of the recent iMac price increase this quarter as we honor much of the existing backlog at old prices. Second, we plan to continue to airfreight most iMacs until we catch up with demand and lastly, the June quarter corresponds with the beginning of the education-buying season and the mix of iMacs and iBooks are expected to rise. We are working on several cost reduction initiatives for the new iMac but the benefits will not be fully realized in the June quarter. We expect gross margins on the new iMac to improve in the September quarter as we realize full quarter benefits from the cost reduction effort and recent price increases and substantial reductions in airfreight. We expect operating expense to be relatively flat with the March quarter. We also project that other Income and expense will be sequentially flat and the tax rate to continue to be about 28 percent.
+
+
+
+ Looking forward, we are very optimistic about our prospects for the future. We are extremely pleased about the reaction to the new flat panel iMac. Customer response and reviews have been tremendous and we are shipping in volume and hope to get caught up with demand soon. While most of our competitors have been reducing investment in R&D and headcount, Apple has been increasing its investment in R&D, investing in development of applications for the digital lifestyle making strategic technology acquisitions like Power  School  (ph) , Nothing Real, [Inaudible]  Technologies, and [Inaudible]  and continuing to invest in our retail initiative which is gaining traction and showing improved financial performance despite the weak economy. We feel very positive about the investments we have made during the last year and we are optimistic that as the recovery improves, Apple will be poised to take advantage of them.
+
+
+
+ With that, I would like to open the call for questions.
+
+
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [4]
+--------------------------------------------------------------------------------
+ Thank you sir. Our Question and Answer session will be conducted electronically. If you would like to ask a question, please firmly press the star key followed the digit one on your touchtone telephone. We will continue in the order that you signal and if you find that your question has been asked and answered before you could ask it and you would like to remove your self from the [Inaudible]  , please firmly press the pound key. Again if you would like to ask a question, press the star key followed by the digit one.
+
+
+
+ And for our first question, we go to Kimberly Alexy with Prudential Securities.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+ Daniel Niles,  Lehman Brothers.   [1]
+--------------------------------------------------------------------------------
+ Fred, you mentioned that there was some significant backlog. Could you quantify that and help us to get a sense as to how strong the demand is and really what type of buyers are we seeing, both in terms of what you are seeing through the stores and just the other data you are picking up on if you could give us some sense of how many of these may be Wintel, [Inaudible]  or anything you could to help to give us a sense of that?
+
+--------------------------------------------------------------------------------
+Operator   [2]
+--------------------------------------------------------------------------------
+ We made a habit of not disclosing our order backlog, but I would tell you it is currently very significant. We have not seen any fall off in sales after the price increase. So we remain very optimistic about the strong momentum we have continuing on the new iMac. As to the types of customers, well, we haven't got a statically significant survey done yet on the new iMac. So I don't have any data to share with you other than  anecdotally  (ph) . We are finding that there are lots of Wintel users that are buying the new iMac. That is evidenced by, I don't know if you saw the recent article in Business Week and also the comments from Amazon in terms of the sales that they have been making to a lot of Wintel users. So, no question anecdotally. We have lot of evidence that there are significant buyers of the new iMac who are not currently Mac users.
+
+
+
+--------------------------------------------------------------------------------
+ Daniel Niles,  Lehman Brothers.   [3]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [4]
+--------------------------------------------------------------------------------
+ Thanks Kimberly. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [5]
+--------------------------------------------------------------------------------
+ And for the next question, we go to Daniel Niles with Lehman Brothers.
+
+
+
+--------------------------------------------------------------------------------
+ Daniel Kunstler,  J.P Morgan.   [6]
+--------------------------------------------------------------------------------
+ Nice management during the quarter, Fred. Looking forward with regards to that, you made some comments on the ASP increases, that you didn't get the full impact of it in the current quarter because of the backlog. So I am trying to think through that going into September quarter when you get the full impact of that. Does that somewhat get offset by higher percentage of education during the September quarter? You made some comments on gross margins better in the quarter. Were you talking about for the total company or were you talking about the iMac product?
+
+--------------------------------------------------------------------------------
+Operator   [7]
+--------------------------------------------------------------------------------
+ First of all, let me address the mix issue. Typically both the June and September quarters are very strong for education. In fact though, I would say they are equal and last year the June quarter was even a little stronger than the September quarter. The biggest K12 quarter, where Apple had its strongest position in education, the June quarter is the biggest. So no, I don't think that the mix would be more toward the iMac because of education in the September quarter versus the June quarter. As it relates to the gross margin on the new iMac, I really believe that it is going to move back up in the September quarter to a more normal level. In other words at very acceptable satisfactory level of gross margin due to not only a full quarter benefit from the new price increase of 100 dollars per  skew  (ph) , but secondly the  office  (ph) group is working on a number of cost reduction initiatives on the new iMac which should be fully realized in the September quarter. Lastly, I would see far less airfreighting in the September quarter. We are planning on a well over half of the units going out to be airfreighted in the June quarter and there is a substantial unit dollar difference between putting it on the water versus airfreight. So I think, overall our gross margin should be higher in the September quarter, substantially higher than in the June quarter.
+
+--------------------------------------------------------------------------------
+ Daniel Kunstler,  J.P Morgan.   [8]
+--------------------------------------------------------------------------------
+ Okay thanks a lot.
+
+
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [9]
+--------------------------------------------------------------------------------
+ Thanks Dan. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [10]
+--------------------------------------------------------------------------------
+ And for our next question, we go to Daniel Kunstler with J.P Morgan.
+
+--------------------------------------------------------------------------------
+Unidentified   [11]
+--------------------------------------------------------------------------------
+ A couple of things. I didn't quite grasp Fred what you had to say about what was contributing to the relative robustness of the  pro-product  (ph) , particularly given the age of the microprocessors that is in there. If you could reiterate that, I would appreciate it. Also when I go back to Steve's comments of 03/21/02 in Tokyo, he said 125,000 iMac [Inaudible]  shipping rates have been increased to 5,000 a day or the production volumes has increased 5000 a day. So if you add that up, you still get better than that. Were there further increases in the production rates and are those production rates sustainable given the available supply of flat panels?
+
+--------------------------------------------------------------------------------
+Operator   [12]
+--------------------------------------------------------------------------------
+ Yes, it went up substantially. In the last 10 days, there were another 90,000-95,000 units that were produced and shipped. So the answer is yes, it went up closer to 9,000-10,000 a day level. We don't have a capacity level constraint in terms of unit production per day that is a real constraint. The constraint is the availability of the components that might be in short supply. So what you saw was that we had all the components that we needed coming in the last 10 days of the quarter and therefore we were able to ramp up production substantially.
+
+--------------------------------------------------------------------------------
+Unidentified   [13]
+--------------------------------------------------------------------------------
+ The question is that is this level of production do you think sustainable given what you have got and what you think you have in terms of component supplies in the next 90 days (something north of 5)?
+
+--------------------------------------------------------------------------------
+Operator   [14]
+--------------------------------------------------------------------------------
+ No. I mean if you are looking at 90-day production quarter, I wouldn't say it would be north of 5. No.
+
+--------------------------------------------------------------------------------
+Unidentified   [15]
+--------------------------------------------------------------------------------
+ [Inaudible]  or try to portray this as a probability but it is actually the component constraints have not really gone. Is that a fair statement?
+
+--------------------------------------------------------------------------------
+Operator   [16]
+--------------------------------------------------------------------------------
+ Well that all depends on demand. As I expect in my preamble, we expect to be able to catch up with demand this quarter.
+
+--------------------------------------------------------------------------------
+Unidentified   [17]
+--------------------------------------------------------------------------------
+ And on the pro [Inaudible]  side (I'm sorry to have to ask you for a clarification)?
+
+--------------------------------------------------------------------------------
+Operator   [18]
+--------------------------------------------------------------------------------
+ On the pro side, we have added 75 more  barge  (ph) during the quarter, which doubled the size of our Provideo sales channel and we had a very good quarter in the whole video segment selling final cut pro and  EBD  (ph) studio pro. So we are doing very well in that segment. That has been our primary strength. In the traditional  creative  (ph) market segments of advertising and publishing, we have seen continued delays of purchases there because of the weak economy and last quarter they still didn't have Photoshop right or [Inaudible]  express, but Photoshop began shipping yesterday. So that is a positive. So I would say that the pro business was pretty flat quarter to quarter and the strength was really in the video segment.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Salomon Smith Barney   [19]
+--------------------------------------------------------------------------------
+ One last little thing Fred. Are you seeing any benefit to the pro  large  (ph) from the Apple stores specifically [Inaudible]  ?
+
+--------------------------------------------------------------------------------
+Operator   [20]
+--------------------------------------------------------------------------------
+ I would say that they are getting pro customers as well as consumers, but I'd say the real strength is coming from [Inaudible]  network and the market acceptance of the final cut pro, which has been very strong.
+
+--------------------------------------------------------------------------------
+Unidentified   [21]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [22]
+--------------------------------------------------------------------------------
+ Thanks Daniel. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [23]
+--------------------------------------------------------------------------------
+ And next we go to Richard Gardner with Salomon Smith Barney.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Salomon Smith Barney   [24]
+--------------------------------------------------------------------------------
+ Thanks Fred. Couple of questions. First, going back to the component issue, you might have already said this, but if you could repeat it, if look at the basket of components, you obviously seen couple of components roll over here recently. Has that helped at all with the recent prices and the prices that you have seen? Is the basket still going up and what do you think the outlook is for the second quarter? And could you just tell us specifically which components you are having a tough time getting aside from flat panel displays?
+
+--------------------------------------------------------------------------------
+Operator   [25]
+--------------------------------------------------------------------------------
+ I think the key thing about why we are being very cautious about this quarter is that, we saw a dramatic increase from January to March in most components, particularly DRAM, which tripled, and flat panels which went up 25%. Now it is true that flat panels have stabilized. And so if you look at what our view is going forward, I characterize it as follows. We think that memory pricing peaked in second quarter at a level that was greater that three times as I said the low point in first quarter. We believe that most system providers increased memory content in response to the lower prices of first quarter, which kind of pushed demand above output levels in second quarter. So as we look to the third quarter, we have seen moderate decreases in memory pricing in April and expect flat-to-decreasing pricing throughout the quarter in terms of DRAM. For LCDs, continued growth in LCD monitor demand as I said  drew  (ph) second quarter prices to levels that were 25 percent above first quarter and we expect the market to remain tight throughout third quarter with prices up very slightly.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Salomon Smith Barney   [26]
+--------------------------------------------------------------------------------
+ Just a couple of follow ups. When exactly do we get beyond the impact of your having to take care of the previously promised pricing on the iMac? Also could you give us an update on your efforts to broaden your retail channel?
+
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ I would say probably May, as when we get passed that. And the second question?
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Salomon Smith Barney   [28]
+--------------------------------------------------------------------------------
+ Related to the third party retail partners, obviously, Circuit City is no longer selling your product and are you aggressively looking for additional third part retailers within the store and Apple batch [Inaudible]  ?
+
+--------------------------------------------------------------------------------
+Operator   [29]
+--------------------------------------------------------------------------------
+ As it relates to the expansion of COMPUSA that I mentioned, we just added 60 more stores. So we are up now to about 150 stores out their 200 plus. So I would say the main focus has been on expanding on COMPUSA, which has been a very successful program where we have seen substantially higher sales productivity with our own Apple batch employees. We also are piloting some programs in Europe. We have piloted one in UK with  Dickson  (ph) and so we are looking to also replicate potentially the COMPUSA success in the US and Europe.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Salomon Smith Barney   [30]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [31]
+--------------------------------------------------------------------------------
+ Thanks Rich. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [32]
+--------------------------------------------------------------------------------
+ And next we go to Andrew Neff with Bear Stearns.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns   [33]
+--------------------------------------------------------------------------------
+ Sure. Two quick questions if I could. One, just to clarify, you said the tax rate is going to be 20 percent for the balance of this year. Could you clarify that?
+
+--------------------------------------------------------------------------------
+Operator   [34]
+--------------------------------------------------------------------------------
+ Yes. That's correct. That is our current forecast.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns   [35]
+--------------------------------------------------------------------------------
+ I guess the second issue is that in terms of gross margin impact in the next quarter, is there a point or so, is it reasonable or could it be more than a point. Anyway characterize that?
+
+--------------------------------------------------------------------------------
+Operator   [36]
+--------------------------------------------------------------------------------
+ No. I think, you know, we have been conservative here and I think 100 basis points is the down side risk.
+
+
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns   [37]
+--------------------------------------------------------------------------------
+ Could that bounce back in September or something like that?
+
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ I think it will bounce back above the March level in the September quarter.
+
+
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns   [39]
+--------------------------------------------------------------------------------
+ Thank you.I think it will bounce back above the March level in the September quarter.
+
+
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [40]
+--------------------------------------------------------------------------------
+ Thanks Andy. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [41]
+--------------------------------------------------------------------------------
+ And we go next to David Bailey with Gerard, Klauer, Mattison.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Gerard, Klauer, Mattison.   [42]
+--------------------------------------------------------------------------------
+ Thank you very much. Quick question about education. Could you give us a little more detail about the early indications of demand and also a little more detail on what you are doing to try to counteract that?
+
+
+
+--------------------------------------------------------------------------------
+Operator   [43]
+--------------------------------------------------------------------------------
+ You know it is too early to tell. This is the strong K12 quarter and we are only in two weeks into it, but we are optimistic that we are going to have a normal strong seasonal quarter here. We have been doing extremely well on the one-on-one deployment. What I mean by that is one mobile computer for every student and for every teacher. Everyone knows I think that we got over 20,000 unit order with  Enrico  (ph) , the state of Virginia. The roll out is going extremely well. We are beginning to roll out in May, which was over 30,000 units and we have other in the pipeline what I will call one-on-one initiatives. So the pipeline of those deals is strong in terms of the possibility. So I think that the major problem we encountered has been the reduced tax-revenue base for the schools that has caused some of the big deals to differ out in the future quarters from the first and second quarter as a result of funding constraint.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Gerard, Klauer, Mattison.   [44]
+--------------------------------------------------------------------------------
+ Ok great. Can you give us any indication of the number of Mac OS X  licencership  (ph) ?
+
+--------------------------------------------------------------------------------
+Operator   [45]
+--------------------------------------------------------------------------------
+ We are not talking specifically about discreet finished goods box sale, but we have shipped over three million systems with Mac OS X loaded since May.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Gerard, Klauer, Mattison.   [46]
+--------------------------------------------------------------------------------
+ Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [47]
+--------------------------------------------------------------------------------
+ Thanks David. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [48]
+--------------------------------------------------------------------------------
+ And we go next to Charles Wolf with Needham.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [49]
+--------------------------------------------------------------------------------
+ Yes. I have some questions about the stores Fred. What was the breakdown between Mac and non-Mac customers in terms of purchases during the quarter?
+
+--------------------------------------------------------------------------------
+Operator   [50]
+--------------------------------------------------------------------------------
+ We don't have a recent survey that I can point to, but it is continuing to run, I believe, close to 40 percent on Mac users.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [51]
+--------------------------------------------------------------------------------
+ And second question is what was the  ASP  (ph) of Mac sold in the stores?
+
+--------------------------------------------------------------------------------
+Operator   [52]
+--------------------------------------------------------------------------------
+ I don't have a number. Do you Peter?
+
+ Not specifically, but clearly it is a little higher than [Inaudible]  beyond the box and the mixing up to the higher end  scale  (ph) .
+
+
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [53]
+--------------------------------------------------------------------------------
+ And are you continuing to attract substantial number or percentage of non-Mac customers to the store?
+
+--------------------------------------------------------------------------------
+Operator   [54]
+--------------------------------------------------------------------------------
+ Yes. We believe that again our CPU unit sales are continuing to run close to 40 percent non-Mac users.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [55]
+--------------------------------------------------------------------------------
+ But I am speaking of visitors now.
+
+--------------------------------------------------------------------------------
+Operator   [56]
+--------------------------------------------------------------------------------
+ Do you remember any recent data on that Peter?
+
+ Traffic remained very strong in the quarter. We had a 1.7 million visitors to our stores in the quarter, which was up essentially from the prior quarter.
+
+ I think he is asking what is the mix of visitors that were Mac and non-Mac. Sorry Charley, we don't have any current down for you, but my belief is that close rate is higher on Mac cut [Inaudible]  it would be on Wintel user because they obviously take typically several visits before you can close them. My view would be that it is substantially higher than the CPU mix of 40 percent.
+
+
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [57]
+--------------------------------------------------------------------------------
+ Okay. Let me give you a softball question. You know, Steve announced a digital hub strategy a year and a half or a year and three months ago at Mac World and I was wondering if you guys have any kind of survey  days  (ph) that would indicate the percentage of Mac users that are using iMovie, or iTunes, or iDVD - the digital software?
+
+--------------------------------------------------------------------------------
+Operator   [58]
+--------------------------------------------------------------------------------
+ No we don't but we gave out recently some data on the number of SuperDrives and I think we had downloads of iPhotos which was one in a quarter million that has been introduced in more than half a million in SuperDrive. All the indications, Charley, are that it is really building. That strategy is beginning to work and it is paying off, but I can't give you specific data as to your specific question.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company   [59]
+--------------------------------------------------------------------------------
+ Okay. Thanks a lot.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [60]
+--------------------------------------------------------------------------------
+ Thanks Charley. Could we have the next question please.
+
+
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [61]
+--------------------------------------------------------------------------------
+ And we go next to Don Young with UBS Warburg.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [62]
+--------------------------------------------------------------------------------
+ Thank you. Good evening. Not to beat us to death but just to understand the component prices better. Fred, I was wondering if you could give us an idea of how far out have you have committed prices? In other words if LCD screens or DRAM prices should fall  precipitously  (ph) in the [Inaudible]  markets in May, when would that show up?
+
+--------------------------------------------------------------------------------
+Operator   [63]
+--------------------------------------------------------------------------------
+ Very soon.
+
+--------------------------------------------------------------------------------
+Operator   [64]
+--------------------------------------------------------------------------------
+ Very soon. So in other words you are moving with the market.
+
+--------------------------------------------------------------------------------
+Operator   [65]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [66]
+--------------------------------------------------------------------------------
+ Okay. The other question I wanted to ask you are looking at gross margins, you have given a lot of specific guidance for the next quarter, but the current quarter is 300 basis points below what you did for the prior six months roughly. I am trying to get an idea of where do you think do they target the model for Apple once you get through this unusual pricing in component period? What your target model for your gross margin should be on the kind of mix you are running today?
+
+--------------------------------------------------------------------------------
+Operator   [67]
+--------------------------------------------------------------------------------
+ I would like to see at least 28 percent.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [68]
+--------------------------------------------------------------------------------
+ But not back to 30?
+
+--------------------------------------------------------------------------------
+Operator   [69]
+--------------------------------------------------------------------------------
+ We would like to have a better balance of significant top line growth in maintaining gross margins at 28 percent or slightly better. In other words, I'd rather see the company growing at 15 to 20 percent on the top line than having 30 to 31 percent gross margin.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [70]
+--------------------------------------------------------------------------------
+ If I could to one other question on the stores. I assume that the stores performance was pretty back and  loaded  (ph) like the rest of the company. Were you able to break in to the black on a profitability basis in the month of March?
+
+--------------------------------------------------------------------------------
+Operator   [71]
+--------------------------------------------------------------------------------
+ I would say that the stores were less back and  loaded  (ph) little bit than our overall results for the company. What I would tell you is again we were really pleased with the growth in revenues from 48 million dollars to 70 million dollars and cutting the loss in half from 8 million dollars to 4 million dollars and as I said I think that we are trying to drive to profitability as soon as we can. I am certainly hopeful that before the end of the calendar year, we can have a profitable quarter for our retail business.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [72]
+--------------------------------------------------------------------------------
+ Great. Thank you Fred.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [73]
+--------------------------------------------------------------------------------
+ Thanks Don. Could we have the next question please.
+
+
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [74]
+--------------------------------------------------------------------------------
+ And next we go to Brett Miller with A.G. Edwards.
+
+--------------------------------------------------------------------------------
+ Brett Miller,  A.G. Edwards.   [75]
+--------------------------------------------------------------------------------
+ Hi Fred and Nancy. You mentioned that backlog should be out of the way in May. Would that be early or late May?
+
+--------------------------------------------------------------------------------
+Operator   [76]
+--------------------------------------------------------------------------------
+ The question is that if it relates to the old prices prior to our price increase in late March? I would say early May.
+
+--------------------------------------------------------------------------------
+ Brett Miller,  A.G. Edwards.   [77]
+--------------------------------------------------------------------------------
+ In the stores themselves, we saw a slowdown in store openings. I was wondering if there was any  linearity  (ph) or guidance in opening new stores that we should [Inaudible]  on?
+
+--------------------------------------------------------------------------------
+Operator   [78]
+--------------------------------------------------------------------------------
+ It was intentional that we decided to take a  breeder  (ph) after our first 27th and evaluate the business model and what  tweaks  (ph) if any were appropriate and then crank up a plan for this calendar year and as soon as we did that, we had committed the real estate and everything when we gave you the updated target of going from 29 now to another 20 stores which should put us at 49 or very close to 50.
+
+--------------------------------------------------------------------------------
+ Brett Miller,  A.G. Edwards.   [79]
+--------------------------------------------------------------------------------
+ So coming back around to what you all learned, I know one thing that you talked about was that the close rates were little lower than you liked at the stores. Were there any other things that you learned in other metrics and things that are changing in the stores?
+
+--------------------------------------------------------------------------------
+Operator   [80]
+--------------------------------------------------------------------------------
+ I really don't want to go into that at this time. I am sure that our retail business will have some updates. Let me just say that we are incredibly pleased with the stores. We confirmed that it was absolutely the right decision to put our stores in upscale malls and life style centers where we have high traffic. It was absolutely the right decision to carry inventory so that customers could walk out the door with a Macintosh. It was absolutely the right decision to focus on service as opposed to high-powered sales tactics, because 99% of the visitors to our stores would recommend it to their friends. We also wanted people who are very knowledgeable of our products and the advantages of our digital life style applications and so forth. We could demonstrate it out. It was absolutely the right decision that we should have solution centers. So I could go on. We confirmed a lot of things. There [Inaudible]  significant but we concluded that there were a few  tweaks  (ph) that we should make and you will see than incorporated in stores that we open in the second half of the calendar year.
+
+--------------------------------------------------------------------------------
+ Brett Miller,  A.G. Edwards.   [81]
+--------------------------------------------------------------------------------
+ Thank you. Great execution.
+
+--------------------------------------------------------------------------------
+Operator   [82]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [83]
+--------------------------------------------------------------------------------
+ Thanks Brett. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [84]
+--------------------------------------------------------------------------------
+ And we go next to Walter [Inaudible]  with First Holding.
+
+--------------------------------------------------------------------------------
+ Walter,  First Holding   [85]
+--------------------------------------------------------------------------------
+ Hi Fred. I jumped on a little bit late so let me just ask you if you can just kind of go through the guidance for the current quarter? Is it an issue of getting enough components or is it a demand issue being conservative? Maybe you could put a little color on that for me?
+
+--------------------------------------------------------------------------------
+Operator   [86]
+--------------------------------------------------------------------------------
+ Well let me first say that we were up unlike many companies in this industry year over year and sequentially, both in units and revenue and sequentially normally, the March quarter is a down quarter for the PC industry. Because of the strength of the new iMac, I believe predominantly, we were able to run [Inaudible]  and actually show growth both sequentially and year over year. As it relates to this quarter, we are talking about further growth sequentially by another 100 million dollars to 1.6 billion dollars and that would also be up 125 million dollars over the June quarter of last year when we did, I think, 1.475 billion dollars. So I think in this economic environment, those not only are good results looking back over the last quarter but good growth expectations for the coming quarter. As to earnings being flat to up slightly, I think we are being a little conservative because of uncertainties still surrounding future component costs and I don't want to be wrong. And to I think that the flat part is being  ultraconservative  (ph) .
+
+--------------------------------------------------------------------------------
+ Walter,  First Holding   [87]
+--------------------------------------------------------------------------------
+ So, it is not an issue of limitations on either manufacturing or getting enough components [Inaudible]  demand to be a little better than you expected?
+
+--------------------------------------------------------------------------------
+Operator   [88]
+--------------------------------------------------------------------------------
+ No I said and you missed it that we expected to be able to get caught up with demand on the new iMac this quarter.
+
+
+
+--------------------------------------------------------------------------------
+ Walter,  First Holding   [89]
+--------------------------------------------------------------------------------
+ Okay. Great. Thanks Fred.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [90]
+--------------------------------------------------------------------------------
+ Thanks Walter. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [91]
+--------------------------------------------------------------------------------
+ And we go next to Steven Fortuna with Merrill Lynch.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [92]
+--------------------------------------------------------------------------------
+ Hi Fred. Couple of short things. First of all, from an iBook standpoint and an iPOD standpoint, were [Inaudible]  the performance roughly in line with your expectations?
+
+--------------------------------------------------------------------------------
+Operator   [93]
+--------------------------------------------------------------------------------
+ As to the iPOD, I would say that we expected a decline from 125,000 levels that we had in December quarter consistent with a normal seasonal pattern here. In fact, the information we have is that there was actually about a 71 percent decline of MP3 player sales between the December quarter of 2000 and the March quarter of 2001 and we had a decline of about a little over 50 percent. So I think actually we have less of a decline in the marketplace and are very pleased with the iPOD and have strong expectations for it going forward. Peter, do you want to take the other question?
+
+ Sure. We will start with your iBook question. We are very pleased with our results in the quarter for iBook. We were up 156  percent  (ph) year over year doing well both in the channel and particularly in education. We have a great product line up there that is being met well in all customer segments.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [94]
+--------------------------------------------------------------------------------
+ Second, in terms of Apex, what should we be thinking about APEX dollars for the June quarter - flattish or perhaps up a little bit? Is there any opportunity to further cut cost even if it is modest?
+
+--------------------------------------------------------------------------------
+Operator   [95]
+--------------------------------------------------------------------------------
+ Regarding Apex, we saw benefits from our restructuring programs last quarter that we put in place this quarter. We continue to manage the infrastructure area very tightly looking to save money where we can, but we continue to invest aggressively in R&D and hardware-software, and applications and continue to invest in our retail programs. In June
+
+ we should be roughly flat with the March quarter. (Peter Oppenheimer)
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [96]
+--------------------------------------------------------------------------------
+ Lastly would just be on any note worthy commentary regarding the various geographies in which you play?
+
+--------------------------------------------------------------------------------
+Operator   [97]
+--------------------------------------------------------------------------------
+ All of our geographies did very well internationally in the last quarter particularly in Europe and saw a nice rebound in Asia-Pacific on the strength of the new iMac. (Peter Oppenheimer)
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [98]
+--------------------------------------------------------------------------------
+ Terrific. Thanks very much.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [99]
+--------------------------------------------------------------------------------
+ Thank you Steve. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [100]
+--------------------------------------------------------------------------------
+ And for our next question, we go to Carl Fredrick with Fredrick  Research  (ph) .
+
+--------------------------------------------------------------------------------
+ Carl Fredrick,  Fredrick Research   [101]
+--------------------------------------------------------------------------------
+ Hi. Congratulations Fred.
+
+--------------------------------------------------------------------------------
+ Garry Vice President and Treasurer,  Apple Computer - Vice President and Treasurer   [102]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Carl Fredrick,  Fredrick Research   [103]
+--------------------------------------------------------------------------------
+ I find that my new 14-inch iBook here to be really terrific and I was wondering whether that was running substantially at greater gains than the smaller iBook?
+
+--------------------------------------------------------------------------------
+ Garry Vice President and Treasurer,  Apple Computer - Vice President and Treasurer   [104]
+--------------------------------------------------------------------------------
+ It did quite well in the quarter, didn't it Peter?
+
+--------------------------------------------------------------------------------
+ Carl Fredrick,  Fredrick Research   [105]
+--------------------------------------------------------------------------------
+ I know mine got airfreighted from [Inaudible]  . Are you planning to do iBooks by air or are you planning to put them on the ocean as well?
+
+--------------------------------------------------------------------------------
+Operator   [106]
+--------------------------------------------------------------------------------
+ We deliver most of our portables, the iBook and the PowerBook by air.
+
+--------------------------------------------------------------------------------
+ Carl Fredrick,  Fredrick Research   [107]
+--------------------------------------------------------------------------------
+ So you are not looking to move that to the ocean, right?
+
+--------------------------------------------------------------------------------
+Operator   [108]
+--------------------------------------------------------------------------------
+ No. When you have something that does not weigh a lot and take up a lot of space. It tends to not be as big a [Inaudible]  between putting it on the water and air as a desktop.
+
+--------------------------------------------------------------------------------
+ Carl Fredrick,  Fredrick Research   [109]
+--------------------------------------------------------------------------------
+ That is what I figured. I just wondered because it is really pretty product. I am sitting here and seeing it. I can't imagine why you worked further behind on backlog?
+
+--------------------------------------------------------------------------------
+Operator   [110]
+--------------------------------------------------------------------------------
+ Yes. We have that airfreighting going forward.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [111]
+--------------------------------------------------------------------------------
+ Thanks very much Carl. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [112]
+--------------------------------------------------------------------------------
+ And for our next question, we go to Rebecca [Inaudible]  with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [113]
+--------------------------------------------------------------------------------
+ Good afternoon. Thanks Fred. Couple of questions. Could you provide a little bit more color in terms of what you are seeing in the government? You mentioned that briefly. Some clarity?
+
+--------------------------------------------------------------------------------
+Operator   [114]
+--------------------------------------------------------------------------------
+ Yes. You know it is a small segment right now for Apple but it is growing. Last year it grew 60 percent year over year. What we see is that there are a lot more government opportunities coming our way as a result of our new OS platform, Mac OS X and it has increased stability and robustness in security, which is very important to the government and so we are seeing a good pipeline of opportunities and think that is going to be a high growth in terms of percentage growth opportunity for us going forward.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [115]
+--------------------------------------------------------------------------------
+ Can you do something similar this year in terms of your year over year growth?
+
+--------------------------------------------------------------------------------
+Operator   [116]
+--------------------------------------------------------------------------------
+ I don't want to commit to it, but I wouldn't be surprise. I think it is going to be very strong double digit. Like I said [Inaudible]  involved with our customer-briefing center and we have several government entities coming in for customer-briefing center visits and a lot of interest in our new platform.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [117]
+--------------------------------------------------------------------------------
+ Then two quick clarification questions. First I think you said that you expect about half the airfreight in June.
+
+--------------------------------------------------------------------------------
+Operator   [118]
+--------------------------------------------------------------------------------
+ What I said is that we would have over half still being airfreighted based on our current plan in the June quarter.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [119]
+--------------------------------------------------------------------------------
+ Is this for prospective? What would you consider more of a normalized trend and/or how should we be thinking about September as it gets back to normalized level?
+
+--------------------------------------------------------------------------------
+Operator   [120]
+--------------------------------------------------------------------------------
+ What I would say is that I think that it is somewhere between half and three quarters airfreighted this quarter and maybe 25 percent or so in the September quarter. There is something like a 35 dollar  delta  (ph) between the two. So it is significant. In a more normalized typical quarter, I assume there still may be some airfreight. So just in terms of putting that fully into perspective, I don't think that the normalized level would be any more than 25 percent.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [121]
+--------------------------------------------------------------------------------
+ Lastly, you mentioned that you are anticipating or at least thinking about flat panel potentially increasing slightly in the next quarter. Could you give us some parameters around that in terms of what types of increases would be significantly beyond what you are currently modeling?
+
+--------------------------------------------------------------------------------
+Operator   [122]
+--------------------------------------------------------------------------------
+ I think what I said was that we saw a significant increase from the beginning of the March quarter to the end, which represented around 25 percent and that we saw only a slight increase possibility this quarter in flat panel. I would characterize slight maybe not more than 10 dollars a unit on a 15-inch flat panel display.
+
+--------------------------------------------------------------------------------
+ Rebecca,  Morgan Stanley   [123]
+--------------------------------------------------------------------------------
+ Thank you so much.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [124]
+--------------------------------------------------------------------------------
+ Thanks Rebecca. Could we have the next question please.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [125]
+--------------------------------------------------------------------------------
+ And we go next to Richard Chu with SG Cowen.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen   [126]
+--------------------------------------------------------------------------------
+ Thank you. A couple of clarifications. One, at some point did you [Inaudible]  you thought 5000 a day was a reasonable normalized run rate for the new iMac this quarter?
+
+--------------------------------------------------------------------------------
+Operator   [127]
+--------------------------------------------------------------------------------
+ No. I didn't exactly say that. I think it was in the context of Daniel [Inaudible]  asking me a question related to our ramping up to where we are able to do 9000 or 10,000 a day, in the last ten days of the quarter. He was then asking about whether we had the component supply levels to support that on a sustained basis, and I said `No`, and then I said it would be something less than 5000 a day. If you take 90 days in a quarter, even 5000 would be 450. So we can't support that from a supply stand point. So, it would be something less than 5000 without giving you an exact number. That is what I think I told him.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen   [128]
+--------------------------------------------------------------------------------
+ Talking about price increases related to component cost, what are you doing outside of the specific 100 dollar increases that you have disclosed on the iMac and other product categories [Inaudible]  ? Are you observing component increases? Are there any actions that designed to [Inaudible]  ?
+
+--------------------------------------------------------------------------------
+Operator   [129]
+--------------------------------------------------------------------------------
+ Basically we haven't at this time raised any of our other products. But I think what you are asking me is on the cost reduction initiatives. As I said earlier, we had several projects underway in the non-commodity area, such as consolidating some of our existing supplier base, sourcing certain components into lower cost countries and then the third major category would be changing the manufacturing process of certain subassemblies. These kinds of initiatives we expect to enable us to make some significant cost reductions on the new iMac.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen   [130]
+--------------------------------------------------------------------------------
+ [Inaudible]  for gross margins in the past corner? Was the absorption of  auspicious  (ph) and non-new iMac at least as significant as the mix of the LCD iMac?
+
+--------------------------------------------------------------------------------
+Operator   [131]
+--------------------------------------------------------------------------------
+ I think you are asking what the primary cost increase vectors were. It was tripling. Remember, unlike most companies, it is only the old traditional iMac that we have at CRT base today. Everything else ion Apple sells including all of our display line is flat panel. So I think, we are more flat panel display versus CRT than our competitors. Therefore that is the positive, but when component cost go up, we feel it more. I think the second factor is the DRAM prices went up. You know, they tripled beginning of this calendar year from January or December level through to March. Although we have seen that stabilize and begin to come down a little bit.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen   [132]
+--------------------------------------------------------------------------------
+ What are your expectations with regard to CRT [Inaudible]  ?
+
+--------------------------------------------------------------------------------
+Operator   [133]
+--------------------------------------------------------------------------------
+ It is a great product. I think we did 152,000 units of the  CRT  (ph) iMac last quarter. We need a product both for the consumer market and education, particularly in that sub 1000-dollar space. So long live the original iMac, but we don't get into future product discussion.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen   [134]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer - Senior Vice President of Finance   [135]
+--------------------------------------------------------------------------------
+ Thanks Richard and thanks to everyone for joining us. Recording of today's call will be available for replay for seven days beginning at 5:30 p.m. Pacific Time today and the number for the replay is 719-457-0820, confirmation coded 695-190. The members of the press can contact Lynn Fox [Inaudible]  claimer can contact either John [Inaudible]  or me for additional questions. John is at 408-974-4570 and I am at 408-974-5420. Thanks again for everyone for joining us today.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [136]
+--------------------------------------------------------------------------------
+ Ladies and gentleman, this does conclude our conference call for today. You may disconnect at this time.
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+FINAL TRANSCRIPT: "Final Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2010 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------

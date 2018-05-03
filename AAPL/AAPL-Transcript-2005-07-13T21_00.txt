@@ -1,0 +1,1093 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+F I N A L   V E R S I O N
+
+AAPL - Apple Inc.
+Q3 05 Apple Quarterly Earnings Call
+Jul 13, 2005 / 09:00PM  GMT 
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Nancy Paxton
+      Apple Computer, Inc. - Senior Director, IR and Corporate Finance
+   *  Peter Oppenheimer
+      Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller
+   *  Tim Cook
+      Apple Computer, Inc. - EVP of Worldwide Sales and Operations
+   *  Gary Wipler
+      Apple Computer, Inc. - VP, Corporate Treasurer
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Ben Reitzes
+      UBS - Analyst
+   *  Andrew Neff
+      Bear Stearns - Analyst
+   *  Richard Gardner
+      Smith Barney - Analyst
+   *  Shannon Cross
+      Cross Research Equity - Analyst
+   *  David Bailey
+      Goldman Sachs - Analyst
+   *  Kevin Hunt
+      Thomas Weisel Partners - Analyst
+   *  Rob Semple
+      Credit Suisse First Boston - Analyst
+   *  Bill Shope
+      J.P. Morgan - Analyst
+   *  Joel Wagonfeld
+      First Albany - Analyst
+   *  Keith Bachman
+      Banc of America Securities - Analyst
+   *  Bill Fearnley
+      FTN Midwest Securities - Analyst
+   *  Harry Blount
+      Lehman Brothers - Analyst
+   *  Rob Cihra
+      Fulcrum Global Partners - Analyst
+   *  Rebecca Runkle
+      Morgan Stanley - Analyst
+   *  Gene Munster
+      Piper Jaffray - Analyst
+   *  Steve Milunovich
+      Merrill Lynch - Analyst
+   *  Steve Lidberg
+      Pacific Crest - Analyst
+   *  John Jerad (ph)
+      Founders Fund - Analyst
+   *  Richard Chu
+      SG Cowen - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day, everyone, and welcome to this Apple Computer conference call to discuss third-quarter financial results. Today's call is being recorded. [OPERATOR INSTRUCTIONS] At this time, for opening remarks and introductions, I would like to turn the call over to Nancy Paxton, Senior Director, Investor Relations and Corporate Finance. Please go ahead.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [2]
+--------------------------------------------------------------------------------
+ Thank you. Good afternoon and thanks to everyone for joining us. Speaking today is Apple's CFO, Peter Oppenheimer. He will be joined by EVP of Sales and Operations, Tim Cook, and VP and Corporate Treasurer, Gary Wipler for the Q&A session with analysts.
+
+ Please note that some of the information you will hear during this call consist of forward-looking statements regarding revenue, gross margins, operating expenses, other income and expense, taxes, earnings per share, future products, and Apple's retail initiatives. Actual results or trends could differ materially from our forecast. For more information, please refer to the risk factors contained in the Company's Form 10-K for 2004, the Forms 10-Q for the first and second quarters of 2005, and the Form 8-K filed in June, 2005.
+
+ Please also note that any non-GAAP financial measures included in today's call should be viewed in addition to and not in lieu of Apple's GAAP results. A reconciliation of any GAAP and non-GAAP measures discussed will be posted on Apple's website at www.apple.com/investor. In connection with SEC rules on corporate disclosure, Apple is making this analyst call open to the media and general public by broadcasting the call live over the Internet.
+
+ With that, I would like to turn the call over to Peter Oppenheimer for introductory remarks.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [3]
+--------------------------------------------------------------------------------
+ Thank you, Nancy. Thank you for joining us. We are very pleased to report the highest quarterly revenue and earnings in Apple's history. Revenue of 3.52 billion grew 75% year-over-year, and net income of 320 million grew 425% year-over-year, generating earnings per diluted share of $0.37. These results were driven by the highest Mac sales in over four years, record iPod sales, and the very successful launch of Mac OS X Tiger.
+
+ Operating margin increased to 12.1% from 3.6% in the year-ago quarter. The operating results were a function of strong revenue growth which allowed us to better leverage our operating expenses, as well as higher-than-expected gross margin of 29.7%.
+
+ First, let's review our Macintosh business results. Our Mac business generated 62% of total revenue and was up 29% from the year-ago quarter, driven by strong Mac and software sales. We shipped 1,182,000 Macs during the quarter, which is a record number in a June quarter for Apple and our highest level for any quarter in over four years. Mac's shipment growth was 35% year-over-year, about three times higher than the most recently forecasted market rate of growth for the June quarter as published by IDC.
+
+ We refreshed the Power Mac G5, iMac G5 and eMac families early in the quarter, and shipped 687,000 total desktop systems during the quarter, representing an increase of 65% from the year-ago level. We shipped a total of 495,000 portable systems, an increase of 8% from the year-ago quarter, setting a new record for portable shipments in a single quarter.
+
+ We had a very successful launch of Mac OS X Tiger. Customer response to Tiger's innovative new features such as Dashboard and Spotlight has been tremendous, leading to about 100 million in Tiger revenue and making Q3 the best single quarter for any OS release in Apple's history. At the end of the quarter, channel inventory of total Mac units was within our target range of four to five weeks.
+
+ Now let me discuss our music business results. Our music business generated 38% of total Apple revenue, and was up 317% compared to the year-ago quarter. We shipped 6.2 million iPods during the quarter, representing the ninth quarter in a row of sequential unit increase and setting a new record for quarterly shipments. We exited the quarter with iPod channel inventories within our target range of four to six weeks.
+
+ According to the latest data available from NPD Tech World, iPods had about 75% share of the entire MP3 player market in the United States during the month of May, while our next closest competitor had less than 5% market share. Two weeks ago, we merged the iPod and iPod photo lines creating a single line of white iPods, featured color displays and starting at just 299. And we lowered pricing on the 1 gigabyte iPod shuffle to $129. We also introduced iTunes 4.9, which integrates pod casting right into iTunes, enabling anyone to quickly and easily find and subscribe to their favorite pod cast. Within two days of the launch of iTunes 4.9, customers had subscribed to more than 1 million pod casts. Today there are over 4,000 free pod casts available. We are very excited about pod casting and see it as a great complement to the iPod experience.
+
+ The iTunes Music Store continues to be the world's leading online music service. It operates in 19 countries which represents about 70% of the global music business. We are close to crossing the major milestone of 0.5 billion songs sold, and despite increased competition from companies like Napster, Microsoft and Yahoo!, our share of legally purchased and downloaded music in the United States has actually increased to above 80% as measured by Nielsen SoundScan.
+
+ The Apple retail stores had another solid quarter. Retail segment revenue more than doubled from the year-ago quarter to 555 million. We opened seven stores during the quarter bringing our quarter end total to 110. With an average of 105 stores open during the quarter, average quarterly revenue per store was 5.3 million, up from 3.4 million in the year-ago quarter, a 56% increase. The retail stores segment profit was 29 million and the associated manufacturing profit was 101 million.
+
+ Traffic through our stores continues to grow. Last quarter 12.2 million people visited our stores, translating into 8.9 thousand visitors per store per week. This compares to about 5.8 thousand visitors per store per week in the year-ago quarter. We continue to expect to end fiscal 2005 with 125 stores.
+
+ We were very pleased with the results from our U.S. education channel. Both education revenue and Mac units increased 16% year-over-year, representing the highest education revenue in Mac unit results for a June quarter in the last nine years. Higher education revenue grew 34% year-over-year, while Mac units were up 35% year-over-year. These results were driven by strong desktop and portable shipments, the Tiger launch, and record iPod sales. Our K-12 Mac shipments were up 8% year-over-year despite a tough funding environment.
+
+ In terms of geographic performance, including sales from our retail stores, revenue in Europe, the Americas, and Japan was up 89%, 75%, and 39% respectively. Gross margin was 29.7%, about 120 basis points above our guidance, primarily due to better-than-expected software sales, specifically Tiger and Final Cut Studio and a more favorable than expected commodity environment.
+
+ Operating expense was 617 million, 17 million higher than guidance primarily due to variable selling expenses associated with the higher-than-expected revenue. OI&E was 46 million, 8 million higher than guidance primarily due to higher cash balances and better-than-expected interest rates. The tax rate for the quarter was 32% as expected. Cash grew by over 450 million during the quarter to 7.526 billion and is up over 2 billion fiscal year-to-date. Cash flow from operations was about 470 million. Total capital expenditures for the quarter were 63 million, including 34 million for our retail initiative.
+
+ Looking ahead to the September quarter, I would like to review with you our outlook which includes the types of forward-looking information that Nancy referred to at the beginning of the call. For the quarter, we are targeting revenue of about 3.5 billion. This represents 50% year-over-year growth and is approximately equal to the record revenue of the June quarter, which included the highest quarterly software sales in Apple's history. This will be our first full quarter since our Intel transition announcement, and we believe positioning revenues sequentially flat is prudent as we learn more about the impact of the announcement on sales.
+
+ We expect gross margin to be about 27.7%, which is within our target range. We expect OpEx to be about 615 million, and OI&E to be about 53 million. We expect the tax rate to be 32% and expect to generate EPS of about $0.32.
+
+ We are very pleased with the fiscal year-to-date results with revenue growth over 70% and net income up five-fold compared to fiscal 2004. Our music business has grown a very impressive 317% year-to-date. We have also seen strong growth in our Mac business, where the unit growth rate has significantly exceeded the market rate of growth in each of the last three quarters. We are looking forward to completing the best fiscal year in Apple's history, and we're very enthusiastic about our product price line. With that, I'd like to open the call to questions.
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ [OPERATOR INSTRUCTIONS] We will take our first question today from Ben Reitzes with UBS.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [2]
+--------------------------------------------------------------------------------
+ Good afternoon, guys. Thanks and good quarter. The main question I have is on guidance. I am looking back, and I've never seen a flat quarter, flat-to-down quarter in revenues since 9/11, and I realize you have the Intel transition, but if you could explain that in more detail. It seems that your Company is in so many areas, so much better positioned heading into the September quarter, I still don't understand flat-to-down revenue guidance. When you announced on June 6th the Intel transition, did sales fall off or something to make you so conservative?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [3]
+--------------------------------------------------------------------------------
+ Ben, let me start with the first part of your question, and Tim can add some comments regarding the second. The June quarter exceeded our expectations by over 250 million, and this was partially driven by the very successful launch of Tiger, and its effect on Mac sales. As we look forward to the September quarter, we would expect a sequential decline in software sales, and I would expect other product sales to offset that decline.
+
+ Additionally, we are also being prudent in our first quarter after the Intel transition announcement and expect to learn more this quarter. The guidance that I have provided at 3.5 billion project very strong year-over-year revenue growth at 50%.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [4]
+--------------------------------------------------------------------------------
+ Ben, on your second question about whether the Mac sales slowed after the transition announcement. It is a difficult question to answer; however, I would point out two pieces of data. One is, as Peter said in the preamble, Mac grew at three times the market rate of growth. Secondly, we saw no obvious reduction in the sell-through post the announcement. Now -- however, we have limited data at this point. It has only been a few weeks, and we expect to learn more in the current quarter.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [5]
+--------------------------------------------------------------------------------
+ One last thing, Tim. Is there -- is there -- part of the conservatism perhaps with the flat revenue, could that be due to maybe new products coming that you perhaps are factoring in, maybe product transitions? I know you don't preannounce products, but you always have products coming out. Is there a transition risk built in there not Mac-related or anything like that?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [6]
+--------------------------------------------------------------------------------
+ We don't comment on new products. The reasons are, as Peter said, we are being prudent on the announcement, and frankly, we think that 50% year-over-year growth is stunning.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [7]
+--------------------------------------------------------------------------------
+ Okay. And then just last -- just before I go. R&D beat our expectations by quite a bit. You spent a lot more. Is that a one-time blip and go back down or is that the level here that we should expect with your new product portfolio that you don't discuss?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [8]
+--------------------------------------------------------------------------------
+ Well, Ben, as I commented on the last call, we had capitalized about $15 million of Tiger development in the March and December quarters, and we shipped Tiger early in the June quarter and cease capitalizing. So, absent anything else changing in the world, that is the biggest explanation for the increase; however, we are continuing to invest in -- in innovative products, and we will continue to make investments in R&D to continue to -- to come out with great products.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [9]
+--------------------------------------------------------------------------------
+ Thanks a lot, guys, appreciate it.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [10]
+--------------------------------------------------------------------------------
+ Thanks, Ben. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [11]
+--------------------------------------------------------------------------------
+ The next question comes from Andrew Neff with Bear Stearns.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [12]
+--------------------------------------------------------------------------------
+ Sure. Thanks very much. Just wanted to go -- wonder if you could go into a little more -- give us a little more color on the different product lines beyond -- you know different breakout now. If you could talk about the Mac mini, et cetera. Give us some color on that. Second, if I could, just on the transition issue, as you move to a transition,a new system, have you worked out what users would have to do in terms of will they have to buy new software and how that's going to work out?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [13]
+--------------------------------------------------------------------------------
+ Okay. Andy, I will answer your first question, and Tim will discuss your second. The Mac mini is appealing to a broader, more price-sensitive customer base, and we think it is helping us to expand our installed base. These customers are looking for an affordable way to try our OS X and iLife. And I think that the bring-your-own-keyboard display and mouse message has resonated with many of these customers and they are doing that.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [14]
+--------------------------------------------------------------------------------
+ Do they meet your expectations?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [15]
+--------------------------------------------------------------------------------
+ We -- again, with our total CPU sales up 35% growing about three times the market rate of growth, I couldn't have been happier with the performance of our Mac business this quarter.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [16]
+--------------------------------------------------------------------------------
+ And the iMac and the PowerMac, any comments on that?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [17]
+--------------------------------------------------------------------------------
+ Was pleased with the performance of all of our products.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [18]
+--------------------------------------------------------------------------------
+ And the notebook side, any comment -- any more color on that?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [19]
+--------------------------------------------------------------------------------
+ We set a record for the quarter at 495,000. So it was the biggest portable shipment -- shipment quarter in the Company's history.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [20]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [21]
+--------------------------------------------------------------------------------
+ Andy, on your other question about the developers reporting software, the reaction we have had from the developer community are that they are very excited about the transition. In fact, before the week-long developers conference was over, over 100 applications were already recompiled and running on Intel-based Mac.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [22]
+--------------------------------------------------------------------------------
+ But will users have to buy -- when they buy a new system, will they have to buy all new software, I guess is my question?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [23]
+--------------------------------------------------------------------------------
+ There will be software -- yes. However, we will also offer a translation technology that we call Rosetta which will allow most power-PC based Mac apps to seamlessly run on new Intel-based Macs. Where there is some impact on performance, most applications will run fast enough.
+
+--------------------------------------------------------------------------------
+ Andrew Neff,  Bear Stearns - Analyst   [24]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [25]
+--------------------------------------------------------------------------------
+ Thanks, Andy. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [26]
+--------------------------------------------------------------------------------
+ For our next question we'll go to Richard Gardner with Smith Barney.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [27]
+--------------------------------------------------------------------------------
+ Great, thank you. Peter, I was hoping you could walk us through some of the factors that are going to push down margin sequentially in the quarter. I suspect a down-tick in software revenue, as well as the pricing actions that you have taken, probably figure prominently, but anything else that we are missing there?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [28]
+--------------------------------------------------------------------------------
+ Yes, I expect the gross margin to decline primarily as a result of a decline in software sales as Tiger and Final Cut Studio head into their second quarter. We normally see the best software sales in a release's first quarter, and we do expect the commodity environment to be less favorable as we head into the back-to-school season, and Tim may want to make a few comments about what he expects there.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [29]
+--------------------------------------------------------------------------------
+ Rich, in the quarter that we just finished, it was a great quarter from a buying point of view. DRAM and Flash both fell more than we anticipated, and other commodities were down in the aggregate slightly more than we predicted; however, going into Q4, primarily due to the typical industry-wide seasonal demand that occurs in this period of time for back-to-school, we see DRAM increasing from the lows that we experienced last quarter. We also see certain sizes of flat-panel displays rising. And finally, we see that declines in hard drives are likely to be lower than historical norms due to component shortages in that industry. Other commodities we believe will likely follow this trend.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [30]
+--------------------------------------------------------------------------------
+ Okay. And if I could follow up. Peter, in any comments or -- I guess anyone. Any comments on the weakness that we saw in Japan in the quarter? It looked like you were gaining some traction in Japan up until this recent quarter, and then all of a sudden we saw a pretty sharp drop-off. I suspect part of that is just seasonal, but any other factors at work there?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [31]
+--------------------------------------------------------------------------------
+ Rich, when you combine sales from our retail stores in Japan into the geographic revenue stream, we grew revenue 39% year-over-year and the Mac unit sales were down 2%. We did reduce Mac channel inventory in Japan during the quarter, and when you take this into account, our Mac unit sales increased slightly more than the forecasted rate of growth by IDC which was 5%. While the revenue performance over the past two quarters has shown a marked improvement from last year, I am unhappy with our performance in Japan, and we are continuing to make changes both in our indirect and direct channels in order to improve our performance.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [32]
+--------------------------------------------------------------------------------
+ Okay. Great. Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [33]
+--------------------------------------------------------------------------------
+ Thanks, Rich. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [34]
+--------------------------------------------------------------------------------
+ Our next question today comes from Shannon Cross with Cross Research Equity.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research Equity - Analyst   [35]
+--------------------------------------------------------------------------------
+ Good afternoon, can you hear me?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [36]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research Equity - Analyst   [37]
+--------------------------------------------------------------------------------
+ I apologize I just picked up the handset. Looking at the ASPs on iPod, with the declines we saw this quarter, obviously a shift to shuffle, and I would assume iPod minis. What can you tell us about gross margins and are you still keeping sort of a goal of around 20% for the remainder of the year?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [38]
+--------------------------------------------------------------------------------
+ Shannon, I do not want to be specific about gross margin and we will not talk about iPod sales by particular iPod or geography because we just don't want to help our competitors. But the gross margin for the blended iPod family was close to 20% in the quarter.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research Equity - Analyst   [39]
+--------------------------------------------------------------------------------
+ Okay. So you maintained it even with the decline in ASPs.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [40]
+--------------------------------------------------------------------------------
+ It was close to 20% in the quarter, and I will speak with you in October about what we saw in the September quarter.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research Equity - Analyst   [41]
+--------------------------------------------------------------------------------
+ Okay. And then just a follow-up on Tiger. Can -- and I apologize if I missed this, but did you give a revenue number for Tiger specifically? And do you have a percent installed base of Macs that are now on OS X at the end of the quarter?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [42]
+--------------------------------------------------------------------------------
+ Yes, the Tiger revenue was about 100 million in the quarter, making it the best-selling release in our Company's history. And the installed base of Mac OS X is close to $16 million at this point.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research Equity - Analyst   [43]
+--------------------------------------------------------------------------------
+ Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [44]
+--------------------------------------------------------------------------------
+ You are welcome.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [45]
+--------------------------------------------------------------------------------
+ Thank you, Shannon. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [46]
+--------------------------------------------------------------------------------
+ For our next question we will go to David Bailey with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Goldman Sachs - Analyst   [47]
+--------------------------------------------------------------------------------
+ Yes, two questions, please. The first is, that your sales and operating profit per store seems to have dropped for the second consecutive quarter for the Apple retail stores. Is this just seasonality or is there something else going on?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [48]
+--------------------------------------------------------------------------------
+ David, largely it is seasonal. The June quarter is the lowest seasonal quarter for -- for consumers, but we were really happy with the performance of our retail stores. Segment revenue more than doubled from the year-ago quarter. And average store sales were up 56% from the year-ago quarter.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Goldman Sachs - Analyst   [49]
+--------------------------------------------------------------------------------
+ And then the second on education -- on the K through 12 education. Do you have any idea what the overall industry grew? Do you think you gained share in K through 12?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [50]
+--------------------------------------------------------------------------------
+ David, it'sTim. The IDC forecast for education was that we would actually see a negative rate of growth of 2%. I believe they will revise that up, but that nevertheless is their current -- current view. If that holds, obviously we gain share with a 16% year-over-year comp.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Goldman Sachs - Analyst   [51]
+--------------------------------------------------------------------------------
+ Is that just on the K through 12 or is that all education?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [52]
+--------------------------------------------------------------------------------
+ That's all education. IDC does not break out K-12 in higher ed.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Goldman Sachs - Analyst   [53]
+--------------------------------------------------------------------------------
+ And what is your feel on K through 12? Do you think that it was growing about your rate or faster than that?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [54]
+--------------------------------------------------------------------------------
+ I think K-12 still suffers from significant shortfalls of tax revenues; however, we saw a somewhat an improvement last quarter, and with that, we grew 8% year-over-year. In particular, California was much better than in the previous quarter. And so, I would hope that that continues, but there's been a long stretch here since 9/11 that K-12 has had.
+
+--------------------------------------------------------------------------------
+ David Bailey,  Goldman Sachs - Analyst   [55]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [56]
+--------------------------------------------------------------------------------
+ Thanks, David. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [57]
+--------------------------------------------------------------------------------
+ Sure. Our next question comes from Kevin Hunt from Thomas Weisel Partners.
+
+--------------------------------------------------------------------------------
+ Kevin Hunt,  Thomas Weisel Partners - Analyst   [58]
+--------------------------------------------------------------------------------
+ Okay. Thank you. Actually I had two quick questions. First, I know you don't want to give too much detail on the categories. I wonder if you can break down the desktop. That seemed to be pretty strong in the quarter. Maybe you could give us the relative strength of some of those products, the relative expectation or overall growth, kind of what was the strongest of the desktop products?
+
+ And the second question is regarding more the iPod and the long-term outlook for your music business. Obviously, you had pretty amazing strength in the iPod to date. You have, I think, supposedly this Motorola deal coming up here soon with the iTunes which is a little bit of a different model. And just kind of wanted to get your take on the long run for Apple if the music business is going to be more of a software play or more of an integrated hardware/software which the iPod would be today.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [59]
+--------------------------------------------------------------------------------
+ Okay. Let me start by talking about your iPod questions, and then Tim can add any color he'd like to on the desktops. I am very pleased with the performance of our music businesses. As I commented, it is up 317% year-to-date, and as I think about our products, while I am respectful of our competition, we have been making big investments in engineering and marketing in both the iPod and the iTunes Music Store, and I think our hardware and software products and our Music Store are by far and away the best out there.
+
+ And while we are always looking over our shoulder at our competition, as I said, I think our products are the best in the market today, and we are hard at work on the next generation of innovative new products, and I just think the team here is extremely creative, and as I commented, I -- I am very excited about what is in the product pipeline.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [60]
+--------------------------------------------------------------------------------
+ Kevin, on your question on desktop. We don't disclose individual desktop SKUs. However, I would tell you that the Mac mini continues to be an important factor in Apple's overall growth, and we believe it is continuing to attract a broader and both price-sensitive customer. And the flat-panel iMac is still viewed to be extremely good by our customers and is selling quite well.
+
+--------------------------------------------------------------------------------
+ Kevin Hunt,  Thomas Weisel Partners - Analyst   [61]
+--------------------------------------------------------------------------------
+ Okay. Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [62]
+--------------------------------------------------------------------------------
+ Thanks, Kevin. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [63]
+--------------------------------------------------------------------------------
+ We'll go next to Rob Semple with CS First Boston.
+
+--------------------------------------------------------------------------------
+ Rob Semple,  Credit Suisse First Boston - Analyst   [64]
+--------------------------------------------------------------------------------
+ A question on the notebook growth. It's obviously going to come in a little bit slower than the overall market. Do you think you are suffering from having never put a G5 in it? What explains that in your opinion?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [65]
+--------------------------------------------------------------------------------
+ On the notebooks, Rob, I would point out that we almost hit 0.5 million units, which is a record for us, and the comparable that we are up against there year-over-year, we refresh both the iBook and the -- and the PowerBook. And so it is a very tough compare.
+
+--------------------------------------------------------------------------------
+ Rob Semple,  Credit Suisse First Boston - Analyst   [66]
+--------------------------------------------------------------------------------
+ Okay. And then can you just give us the amount of business going direct this year in the same quarter a year ago?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [67]
+--------------------------------------------------------------------------------
+ Yes. In Q3, our direct business was 48%, and then the year-ago quarter it was 51%.
+
+--------------------------------------------------------------------------------
+ Rob Semple,  Credit Suisse First Boston - Analyst   [68]
+--------------------------------------------------------------------------------
+ Okay. Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [69]
+--------------------------------------------------------------------------------
+ Thanks, Rob. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [70]
+--------------------------------------------------------------------------------
+ We'll go next to Bill Shope with J.P. Morgan.
+
+--------------------------------------------------------------------------------
+ Bill Shope,  J.P. Morgan - Analyst   [71]
+--------------------------------------------------------------------------------
+ Okay, great. Thanks. Can you give us an update on the percentage of new to Mac buyers in the retail stores? And then looking at Intel transition, do you have any formal education or advertising programs planned to help convince consumers that there is little risk in transitioning or purchasing a power PC Mac ahead of the transition?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [72]
+--------------------------------------------------------------------------------
+ In regards to your first question, the new to Mac in the retail stores continues to be in the low to mid-40%.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [73]
+--------------------------------------------------------------------------------
+ Bill, on your second question, we expect to have Intel-based Mac in the market by this time next year, and because of that, we have a very long time to think about the answer to that.
+
+--------------------------------------------------------------------------------
+ Bill Shope,  J.P. Morgan - Analyst   [74]
+--------------------------------------------------------------------------------
+ Okay. Great, thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [75]
+--------------------------------------------------------------------------------
+ Thanks, Bill. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [76]
+--------------------------------------------------------------------------------
+ We will go now to Joel Wagonfeld with First Albany.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany - Analyst   [77]
+--------------------------------------------------------------------------------
+ Thank you. Two questions. First is, can you give us a percentage of the OS X install base that is now on Tiger? And what you are assuming that goes to next quarter?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [78]
+--------------------------------------------------------------------------------
+ Joel, I don't have that calculated. We shipped over 2 million copies of Tiger during the quarter, including sales at retail, volume licenses, copies that we shipped under deferred maintenance agreements and on new Macs. And as I commented a little while ago, we are close to 16 million installed base for Mac OS X.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany - Analyst   [79]
+--------------------------------------------------------------------------------
+ Thanks. The second question is, I was wondering if you can just comment at all on progress in terms of working out revenue-sharing agreements with the phone carriers. It has been reported in the UK press, I guess, that Motorola and Virgin are going to unveil the iTunes phone in the UK on August 20th or 21st. And I was wondering if that's an anomaly or if that signals that your getting close with some of the other carriers as well.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [80]
+--------------------------------------------------------------------------------
+ Joel, I am sorry. That is a question I just can't answer.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany - Analyst   [81]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [82]
+--------------------------------------------------------------------------------
+ Thanks, Joel. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [83]
+--------------------------------------------------------------------------------
+ We will go now to Keith Bachman with Banc of America.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America Securities - Analyst   [84]
+--------------------------------------------------------------------------------
+ Hi, Peter, just real quick. The last comment you made for Joel, you said the 16 million unit installed base was Apple's installed base or Mac? I missed the characterization of what that was.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [85]
+--------------------------------------------------------------------------------
+ Keith, it was installed base on Mac OS X.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America Securities - Analyst   [86]
+--------------------------------------------------------------------------------
+ Okay. And then any comments on -- your price points were down on iPods, is there any color that you can help us think about the market? What you expect from market dynamics over the next two, three quarters on the MP3 market? Is this the kind of sequential change that we should be thinking about? Any color there at all?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [87]
+--------------------------------------------------------------------------------
+ We can't get into that, because I can't talk about our future products. I can just tell that we plan to continue to be aggressive with price performance in the market, and as I look out over the horizon, I am very excited about what is in the product pipeline.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America Securities - Analyst   [88]
+--------------------------------------------------------------------------------
+ Okay. Let me try it a different way then, Peter. In the past you have been willing to commit to maintaining margins at the 20% level for the family. Is that something that you characterize -- would like to reiterate?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [89]
+--------------------------------------------------------------------------------
+ You know I don't believe that I have ever committed to maintaining margins. I think what I've said I will do is give you an approximation of what they were each quarter as I just did a few minutes ago.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America Securities - Analyst   [90]
+--------------------------------------------------------------------------------
+ Okay. In terms of the final one for me is, we think about past software cycles have lasted a little over a quarter. I would assume that Tiger will still provide some benefits in the September quarter. Could you comment on that please?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [91]
+--------------------------------------------------------------------------------
+ Sure. As I had indicated, Tiger sales in its first quarter were the best for any OS release at about 100 million. We historically have seen the highest sales for any software release in its first quarter, and while I am not able to give you a specific product forecast for Tiger, what we saw with Panther, it declined by about 60% in its second quarter. But, there is always a good tail or at least this has been in the past from prior OS releases, and I wouldn't expect that to be a lot different for -- for Tiger. The response from customers has been tremendous. And we are very happy with the release.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America Securities - Analyst   [92]
+--------------------------------------------------------------------------------
+ Okay. Thank you, Peter.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [93]
+--------------------------------------------------------------------------------
+ Thanks, Keith. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [94]
+--------------------------------------------------------------------------------
+ Yes. We will go next to Bill Fearnley with FTN Midwest Securities.
+
+--------------------------------------------------------------------------------
+ Bill Fearnley,  FTN Midwest Securities - Analyst   [95]
+--------------------------------------------------------------------------------
+ A couple of questions on the product development side. Any surprises as you're beginning working on the development here of the Intel-based Macintoshes, and is there any change to Steve's announcement in terms of mid '06 delivery for the Intel products?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [96]
+--------------------------------------------------------------------------------
+ We still expect to have Intel-based Macs in the market by this time next year, and beyond that, I have nothing else to share.
+
+--------------------------------------------------------------------------------
+ Bill Fearnley,  FTN Midwest Securities - Analyst   [97]
+--------------------------------------------------------------------------------
+ Okay. And also, in the -- when you look at the pro-graphic and pro-audio segment, can you comment what you are seeing there for spending trends? And does the challenges of transitioning a higher-end PowerMac processor, is that affecting the pro-graphic, pro-audio PowerMacintosh business?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [98]
+--------------------------------------------------------------------------------
+ The pro-video sales that we show -- that we had last quarter were extremely impressive year-over-year, particularly after our product announcements at NAB which just occurred in April. Pro-audio sales were also good from a year-over-year point of view. And lastly, the DMP market saw some signs of life last quarter in some channels and countries, but continues to have an overall slower growth rate.
+
+--------------------------------------------------------------------------------
+ Bill Fearnley,  FTN Midwest Securities - Analyst   [99]
+--------------------------------------------------------------------------------
+ Okay. And then one last question on cash, the cash position continues to get better. Any update this quarter on stock repurchase and your plans on that score? And that's my last question, thanks.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [100]
+--------------------------------------------------------------------------------
+ Bill, I don't have a change in our position to share with you today. We are continuing to maintain our cash for flexibility to invest in the business and do acquisitions, and from time to time, share buybacks are discussed with the Board.
+
+--------------------------------------------------------------------------------
+ Bill Fearnley,  FTN Midwest Securities - Analyst   [101]
+--------------------------------------------------------------------------------
+ Okay. Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [102]
+--------------------------------------------------------------------------------
+ Thanks, Bill. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [103]
+--------------------------------------------------------------------------------
+ Our next question comes from Harry Blount with Lehman Brothers.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [104]
+--------------------------------------------------------------------------------
+ Hi, Peter. I want to circle back. I believe your comment on inventory levels were at reasonable levels. I wanted to get a little bit better understanding on the numerator and denominator on that calculation, both for the iPod and the PC. Can you maybe help us in terms of what channel inventories were up on a year-over-year basis or sequentially for both products? And then also maybe a little bit of an update on the number of storefronts currently distributing the iPod and the number of storefronts currently distributing the Mac.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [105]
+--------------------------------------------------------------------------------
+ Harry, on inventory, both the Mac and the iPod ended the quarter in their targeted inventory lines. On the iPod in particular, we began and ended the quarter within the range of four to six weeks. And we believe that most locations that we had around the world, our channel partners and our direct stores had good supply during the quarter, and that the 6.2 million unit number that Peter referenced in the preamble was representative of end-user demand during the quarter.
+
+ In terms of the number of storefronts that are now selling iPods, we have approximately 25,000 around the world, which is an increase from around 21,000 that we had in previous quarters.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [106]
+--------------------------------------------------------------------------------
+ And then on the PC side too?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [107]
+--------------------------------------------------------------------------------
+ On the Mac ended -- began and ended the quarter in the targeted four- to five-week range. We feel extremely comfortable with the inventory level.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [108]
+--------------------------------------------------------------------------------
+ Okay. Just to clarify on that inventory levels. The four to six weeks obviously reflects a -- the increase in storefronts from 21 to 25 for the iPod, but do you have a sense on the PC's increase in storefronts?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [109]
+--------------------------------------------------------------------------------
+ There was no measurable difference in -- from the last conference call in the Mac.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [110]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [111]
+--------------------------------------------------------------------------------
+ And, Harry, I would like to clarify. Independent of the increase in the storefronts, what Tim said was that he felt that the 6.2 million iPods that we sold was representative of end-customer demand.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [112]
+--------------------------------------------------------------------------------
+ Correct, so basically if we took a look at the last quarter aborted and the 6.2 this quarter, that is directionally consistent with the overall sellout?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [113]
+--------------------------------------------------------------------------------
+ It would be representative.
+
+--------------------------------------------------------------------------------
+ Harry Blount,  Lehman Brothers - Analyst   [114]
+--------------------------------------------------------------------------------
+ Okay, great.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [115]
+--------------------------------------------------------------------------------
+ Thanks, Harry. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [116]
+--------------------------------------------------------------------------------
+ Our next question comes from Rob Cihra from Fulcrum Global Partners.
+
+--------------------------------------------------------------------------------
+ Rob Cihra,  Fulcrum Global Partners - Analyst   [117]
+--------------------------------------------------------------------------------
+ Hi, thanks very much. Two separate questions if that's okay. One, you had mentioned things like Rosetta sort of helping you hopefully mitigate the risk of people pausing before the Intel transition. Are there other things you can do maybe less technical and more in terms of product positioning, that sort of thing? What are you thinking about to try to keep people interested and not just all wait for the new platform.
+
+ And then totally second -- totally separately, with NAN [ph] Flash having cratered over the last few months in terms of pricing, does that change or has that changed your sort of product matrix set up in terms of shuffle low-end iPod mini middle and white at the high end, or is that kind of product set-up still -- still valid even with the changes in Flash prices. Thank you.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [118]
+--------------------------------------------------------------------------------
+ Rob, on your first question, we believe that we are currently shipping the best line-up of Macs in the history of the Company, and we plan to introduce more power PC-based Macs in the coming quarter -- quarters that are excellent. And that's the best way for us to -- to prevent customers from doing something different. However, we obviously aren't predicting if any will delay, and if so how many. Your second question?
+
+--------------------------------------------------------------------------------
+ Rob Cihra,  Fulcrum Global Partners - Analyst   [119]
+--------------------------------------------------------------------------------
+ Just in terms of with -- with Flash prices having come down so much over the last few months.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [120]
+--------------------------------------------------------------------------------
+ On Flash, we saw a positive difference in Flash prices last quarter, as you know in the market, and we don't disclose our thinking on new products.
+
+--------------------------------------------------------------------------------
+ Rob Cihra,  Fulcrum Global Partners - Analyst   [121]
+--------------------------------------------------------------------------------
+ Okay. But I guess, was it -- was it more than you were expecting? Or was that pretty much what you maybe thought was going to be the case anyway?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [122]
+--------------------------------------------------------------------------------
+ It was more than we expected, and, therefore, we had a positive impact on our gross margin in -- that Peter talked about earlier.
+
+--------------------------------------------------------------------------------
+ Rob Cihra,  Fulcrum Global Partners - Analyst   [123]
+--------------------------------------------------------------------------------
+ All right, great, thank you very much.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [124]
+--------------------------------------------------------------------------------
+ Thanks, Rob. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [125]
+--------------------------------------------------------------------------------
+ Our next question today comes from Rebecca Runkle with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [126]
+--------------------------------------------------------------------------------
+ Good afternoon. Thanks. Just a couple of quick questions. First, as you -- I guess the 25,000 iPod distribution points, Peter, I am assuming that the bulk of that is the 3,500 U.S.-based Wal-Mart stores that you started to ship into, but can you confirm that? And then give us perspective in terms of, are you fully rolled out at Wal-Mart in terms of shifting to full allocation?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [127]
+--------------------------------------------------------------------------------
+ Rebecca, Tim. On Wal-Mart, with the results of the pilot that we had that we started running the previous quarter, we did elect to expand the distribution of the iPod shuffle to about 95% of their stores during last quarter. We also rolled out the select mini and white models to about 25% of the stores. We are continuing to watch this and decide whether to go further with that, including investigating some of their International locations.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [128]
+--------------------------------------------------------------------------------
+ And then just shifting gear. If we look at your own inventory levels, they were up about 18% or so sequentially, not big in terms of days inventory by any mechanism. I think the bulls will point to the fact that you are suggesting there are new products on the horizon while the bearers will point to the potential for inventory build. Any color in one direction or the other that you can provide us on inventory?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [129]
+--------------------------------------------------------------------------------
+ Rebecca, I would say that neither -- neither of those are the case. The inventory was primarily -- primarily increased -- increased sequentially as the result of the fact that we opened about seven -- seven retail stores during the quarter.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [130]
+--------------------------------------------------------------------------------
+ And then last question, Peter and/or Tim. If we go back and look historically, can you just talk through seasonality of higher ed. It was up 34%, I believe you said, year-on-year in the June quarter, but is higher ed more important, same, less important as we look toward the September quarter? How should we think about that?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [131]
+--------------------------------------------------------------------------------
+ Relative to K-12. K-12 is stronger in the quarter that we just finished. Higher Ed is relatively stronger in the quarter that we are now in, in the critical back-to-school season, and we believe that with the growth rates we have experienced in higher ed, the 34% revenue figure year-over-year that Peter talked about earlier that we are well-positioned for the back-to-school season.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [132]
+--------------------------------------------------------------------------------
+ Would you say that's one of the segments where you are taking the fastest amount of market share on the CPU side is in higher ed?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [133]
+--------------------------------------------------------------------------------
+ There is not a third-party service that I am aware of that reports market share in higher ed. My own view would be that the higher ed market is obviously not growing at 34% obviously. It is a very mature market.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [134]
+--------------------------------------------------------------------------------
+ Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [135]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [136]
+--------------------------------------------------------------------------------
+ Thanks, Rebecca. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [137]
+--------------------------------------------------------------------------------
+ Sure. Our next question comes from Gene Munster with Piper Jaffray.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [138]
+--------------------------------------------------------------------------------
+ Good afternoon, everybody. If we could just go back to the original -- Ben's original question at the start of the call here in terms of the Intel comments. I just want to make sure I understood what your comments were about, have you seen an impact specifically from -- since now in the last month since that Intel announcement has been out on your CPU business, I guess is my first question, or is it just the fact that you are essentially expecting some sort of slowdown as this kind of -- this news gets through the market?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [139]
+--------------------------------------------------------------------------------
+ Gene, it is difficult to know for certain; however, I would point to two pieces of data. The first is that our Mac grew three times the market rate of growth last quarter. We are extremely pleased with that. The second is, we saw no obvious reduction in sell-through post the announcement that you are alluding to. I would -- I would say, however, that we have very limited data. It has only been a few weeks since we made that announcement and we expect to learn more this quarter and so we are being prudent with our guidance through Q4 as a result of that.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [140]
+--------------------------------------------------------------------------------
+ Okay. Excellent. And second question, maybe just kind of a business theory question here is that it appears that the halo effect is real. You are growing at three times the market rate. Why don't we see more advertising around the halo effect? It just still seems to be predominantly iPod-based.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [141]
+--------------------------------------------------------------------------------
+ Well, if the -- if you believe that the iPod is creating a halo, advertising iPod also helps us in the Macintosh side, and we clearly believe that.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [142]
+--------------------------------------------------------------------------------
+ Have you guys done any sort of -- I assume you have done some formal -- you've always kind of reference the student monitor data. Can you let us inside a little bit of some of the internal data maybe you guys have looked at in terms of what that effect might actually be?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [143]
+--------------------------------------------------------------------------------
+ There is no internal data that -- that I would like to share today.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [144]
+--------------------------------------------------------------------------------
+ Okay. Have you guys actually done some formal stuff related to that?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [145]
+--------------------------------------------------------------------------------
+ We look at a variety of things, but the -- overwhelmingly, the one we look at the most is how many Macs did we ship in the quarter, and we -- our rate of growth was three times the -- the market and has been for three quarters now, and so we're -- we're extremely enthusiastic about that.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [146]
+--------------------------------------------------------------------------------
+ Then one just final question in terms of the iPods. As you switch from the black and white to color screen, the inventory that is kind of within the market. How does that work itself out of the market?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [147]
+--------------------------------------------------------------------------------
+ The ones that were there have a slightly reduced price versus what they had before, and we believe they will readily sell through.
+
+--------------------------------------------------------------------------------
+ Gene Munster,  Piper Jaffray - Analyst   [148]
+--------------------------------------------------------------------------------
+ Good. Thank you very much. And congratulations.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [149]
+--------------------------------------------------------------------------------
+ Thank you very much.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [150]
+--------------------------------------------------------------------------------
+ Thanks, Gene. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [151]
+--------------------------------------------------------------------------------
+ We will go now to Steve Milunovich with Merrill Lynch.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [152]
+--------------------------------------------------------------------------------
+ Thank you. Can you disclose how much you shipped in terms of iPod to Hewlett Packard and where you think that might go in the future? Also, any comment in terms of the profitability of iTunes? And finally, share count was not up as it has been in previous quarters, so at this point, is share count pretty much the function of stock price?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [153]
+--------------------------------------------------------------------------------
+ Steve, I will take your last two questions, and Tim can do the first. Related to share count. That has really been increasing over the last couple of quarters. Mostly based on employee option exercises. That's been the -- the largest in primary factor. Regarding the iTunes Music Store, it did operate above break-even this quarter.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [154]
+--------------------------------------------------------------------------------
+ On HP. HP represented less than 8% of our total iPod unit shipments for the quarter. We don't predict where that number will go. If you look back in history, you'll find that it has ranged from around 2 or less than 2 to around the less than 8 number.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [155]
+--------------------------------------------------------------------------------
+ Can you remind us what it was last quarter?
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [156]
+--------------------------------------------------------------------------------
+ I believe it was less than 2 last quarter is my memory.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [157]
+--------------------------------------------------------------------------------
+ I think or 3.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [158]
+--------------------------------------------------------------------------------
+ 2 or 3. It was a small number.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [159]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Tim Cook,  Apple Computer, Inc. - EVP of Worldwide Sales and Operations   [160]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [161]
+--------------------------------------------------------------------------------
+ Thanks, Steve. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [162]
+--------------------------------------------------------------------------------
+ We will go next to Steve Lidberg with Pacific Crest.
+
+--------------------------------------------------------------------------------
+ Steve Lidberg,  Pacific Crest - Analyst   [163]
+--------------------------------------------------------------------------------
+ Good afternoon, guys. First of all, with regards to the iPod battery settlement. Did you guys take a reserve against that this quarter? And also on the foreign currency front, how did it impact P&L? Thank you.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [164]
+--------------------------------------------------------------------------------
+ I will answer your iPod battery question and Gary Wipler will discuss foreign currency. In litigation matters, the accounting rules require you to make an estimate once you believe a loss is probable, and you can reasonably estimate it. We had -- as we had been saying in our SEC filings, had been aware of this matter since December of '03. We have made our estimate, and feel that we are adequately reserved.
+
+--------------------------------------------------------------------------------
+ Gary Wipler,  Apple Computer, Inc. - VP, Corporate Treasurer   [165]
+--------------------------------------------------------------------------------
+ And with respect to the effects. In general, a stronger dollar would be a headwind; however, some of this is dilutive as is our practice to hedge -- to anticipate cash flows out three to six months, and on a lag basis, we try to catch up with spot rates in our local pricing. As such, since most of this dollar strength happened in the April, May, and June months, we are somewhat insulated from the dollar strengthening move for both the June quarter and the September quarter.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [166]
+--------------------------------------------------------------------------------
+ Thanks, Steve. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [167]
+--------------------------------------------------------------------------------
+ We will go now to John Jerad with Founders Fund.
+
+--------------------------------------------------------------------------------
+ John Jerad,  Founders Fund - Analyst   [168]
+--------------------------------------------------------------------------------
+ Good afternoon. I was hoping you guys could maybe give us some updated thoughts on how you see the subscription model versus the just straight purchased music model for iTunes versus some of your competitors?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [169]
+--------------------------------------------------------------------------------
+ Sure. With our share of legally purchased and downloaded music here in the United States now growing to over 80% as measured by Nielsen SoundScan, we just don't think very many customers are interested in renting their music. So we think that the success of the iTunes Music Stores show that most customers want to own their music.
+
+--------------------------------------------------------------------------------
+ John Jerad,  Founders Fund - Analyst   [170]
+--------------------------------------------------------------------------------
+ Great, thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [171]
+--------------------------------------------------------------------------------
+ Thank you, John. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [172]
+--------------------------------------------------------------------------------
+ Our last question today comes from Richard Chu from SG Cowen.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen - Analyst   [173]
+--------------------------------------------------------------------------------
+ Yes, good afternoon. Three quick things if I can. On Tiger, at the beginning of June, you had already said you had 2 million shipped. Do you have an updated number on that? And if I can follow-on on two things.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [174]
+--------------------------------------------------------------------------------
+ Okay. Richard, we -- we did ship several hundred thousand more copies of Tiger in the last few weeks of the quarter. Mostly on new Macs and on volume license arrangements, and as I indicated, we have an installed base now on Mac OS X that is close to 16 million users.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen - Analyst   [175]
+--------------------------------------------------------------------------------
+ Okay. And then second, if I may, on song downloads, you said you had not hit your half a million number yet. Can you give any comments as to whether downloading activity increased on a sequential basis? There seems to be a wide range of possibilities there between decline and a meaningful increase.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [176]
+--------------------------------------------------------------------------------
+ Richard, we are very close to the 500 millionth song. I think at this point we are almost at 494 million.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen - Analyst   [177]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [178]
+--------------------------------------------------------------------------------
+ And we are very pleased with our -- our sales. They go up and down a little bit each week, depending on seasonality and new hot releases. Overall, music sales are growing, and I am very happy that our market share has increased to over 80%.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen - Analyst   [179]
+--------------------------------------------------------------------------------
+ Thank you. And then I would like to go back to the very first question that was re-asked I think later on, but with respect to the Intel-related guidance. Should I interpret what you are saying as being therefore that you are being preemptively conservative with respect to what could happen and that you are not currently seeing any reason to be concerned. You are simply concerned about the possibility that you may see an impact.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - CFO, SVP of Finance and Corporate Controller   [180]
+--------------------------------------------------------------------------------
+ Richard, I think just to make this sort of simple. We feel that we are being prudent. This is our first full quarter after the Intel transition announcement, and we expect to learn more in the quarter.
+
+--------------------------------------------------------------------------------
+ Richard Chu,  SG Cowen - Analyst   [181]
+--------------------------------------------------------------------------------
+ Great. Thank you very much.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director, IR and Corporate Finance   [182]
+--------------------------------------------------------------------------------
+ Thank you, Richard, and that concludes our call. A recording of the call will be available for replay via telephone for seven days beginning at 5:00 p.m. Pacific time today, and the number for that replay is 719-457-0820. The confirmation code is 7556415. And a replay of the audio webcast of the call will be available at approximately 5:00 p.m. Pacific time today at www.apple.com/investor.
+
+ And members of the press with additional questions can contact Steve Dowling at 408-974-1896. Financial analysts can contact Joan Hoover or me with additional questions. And Joan's at 408-974-4570. And I am at 408-974-5420. Thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator   [183]
+--------------------------------------------------------------------------------
+ And this does conclude our conference call, ladies and gentlemen. Once again, we do appreciate your participation. You may disconnect at this time.
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+FINAL TRANSCRIPT: "Final Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2010 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------
