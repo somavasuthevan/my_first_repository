@@ -1,0 +1,1015 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+F I N A L   V E R S I O N
+
+AAPL - Apple Inc.
+Q1 2004 Apple Computer, Inc. Earnings Conference Call
+Jan 14, 2004 / 10:00PM  GMT 
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Nancy Paxton
+      Apple Computer, Inc. - Senior Director of Corporate Finance
+   *  Fred Anderson
+      Apple Computer, Inc. - Executive Vice President and Chief Financial Officer
+   *  Peter Oppenheimer
+      Apple Computer, Inc. - Senior Vice President of Finance and Controller
+   *  Gary Litsworth
+      Apple Computer, Inc. - Treasurer
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Steve Milunovich
+      Merrill Lynch - Analyst
+   *  Ben Reitzes
+      UBS - Analyst
+   *  Richard Gardner
+      Smith Barney - Analyst
+   *  Joel Wagonfeld
+      First Albany Corporation - Analyst
+   *  Walter Wynetski (ph)
+      Independent - Analyst
+   *  Bill Shope
+      JP Morgan - Analyst
+   *  Rebecca Runkle
+      Morgan Stanley - Analyst
+   *  Shannon Cross
+      Cross Research - Analyst
+   *  Charles Wolf
+      Needham and Company - Analyst
+   *  Keith Bachman
+      Banc of America - Analyst
+   *  Rob Serra
+      Fulcrum Global Partners - Analyst
+   *  Phil Gucci
+      Zebra Funds - Analyst
+   *  Bill Fernly
+      FTN Midwest Research - Analyst
+   *  John McKeefe
+      Seminole Capital Partners - Analyst
+   *  Steven Fortuna
+      Prudential - Analyst
+   *  Kevin Hunt
+      Thomas Weisel Partners - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day, everyone, and welcome to this Apple Computer conference call to discuss first quarter financial results. Today's call is being recorded. At this time for opening remarks and introductions I'd like to turn the call over to the Senior Director of Corporate Finance and Investor Relations, Miss Nancy Paxton. Please go ahead.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [2]
+--------------------------------------------------------------------------------
+ Thank you. Good afternoon and thanks to everyone for joining us today. Apple issued its first quarter earnings press release at approximately 1:30 P.M. Pacific time today and the earnings press release and financials are available on First Call as well as Apple's website. Speaking today is Apple's CFO, Fred Anderson and ge'll be joined by Senior VP of Finance Peter Oppenheimer and VP and Corporate Treasurer Gary Wistler for Q&A session with analysts.
+
+ Please note that some of the information you'll hear during this call consists of forward-looking statements regarding revenue, gross margin, operating expenses, other income and expense, taxes, products, promotions, Apple's retail initiatives, debt retirement and earnings. Actual results or trends could differ materially from our forecast. For more information please refer to pages 31 through 39 of Apple form 10-K for the year ended September 27, 2003.
+
+ Please also note that should non-GAAP financial measures be included in today's call, such information should be viewed in addition to and not in lieu of Apple's GAAP results. While we don't anticipate providing nonGAAP measures, should we provide them a reconciliation of the GAAP and nonGAAP measures will be posted on Apple's website at www.apple.com/investor. In connection with SEC rules on corporate disclosure, Apple is making this analyst call open to the media and general public by broadcasting the call live over the internet. With that, I'd like to turn the call over to Fred Anderson.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [3]
+--------------------------------------------------------------------------------
+ Thank you, Nancy. We are very pleased with the results of our first fiscal quarter which exceeded our guidance. Revenue of 2 billion 6 million was up 36% year over year and represented Apple's highest quarterly revenue in 4 years. Net income was 63 million or 17 cents per diluted share. These GAAP results include an after tax investment gain of 3 million which increased earnings by 1 cent per share.
+
+ We sold 829,000 Macintosh units and 733 iPods during the quarter. That represents a year over year increase of 12% for CPU units and 35% for iPod shipments. In addition to iPods, strong sales of peripherals and software, particularly Panther upgrades, drove revenue growth substantially higher than CPU units growth during the quarter. Ending channel inventory declined slightly and remained within our target range of four to five weeks.
+
+ In terms of products, portable units represented a record high 48% of all Macintosh systems sold during the quarter. PowerBook shipments hit a record high of 195,000 units while iBook shipments totaled 201,000 units. Power Mac shipments were 206,000 units and iMac shipments were 227,000 units. The iTunes Music Store and our new third generation iPods continued to gain momentum during the quarter bolstered by the introduction of iTunes for Windows.
+
+ The iTunes Music Store remains very popular, available to both Mac and Windows users in the United States and just one click away from 25 million AOL members. We had a blowout quarter for iPods, selling a record 733,000 units representing 256 million in revenue. According to the latest data available for NPD Tech World, which tracks US retail channels, iPod remains the clear number one selling MP3 player. As we announced last week, over 30 million songs have been purchased and downloaded through the iTunes Music Store including 17 million during the December quarter.
+
+ In the latest survey conducted by Nielson Sound Scam, the iTunes Music Store accounted for 70% of all legal music download. Clearly iPod and iTunes Music Store are distancing themselves from the competition and we expect this momentum to continue.
+
+ At Mac World last week, we announced the exciting ultra portable iPod mini, targeted at the high end of the market for flash based MP3 players which represents an estimated 31% of the overall MP3 player market. Next month on Super Bowl Sunday, Pepsi and Apple will launch a historic promotion to give away 100 million songs from the iTunes Music Store. Building on this momentum as we announced last week, Hewlett Packard will begin selling an HP branded digital music player based on Apple's iPod and pre-installing iTunes on it's consumer PCs and notebooks this summer.
+
+ It was an outstanding quarter for Apple's retail stores which generated revenue of $273 million up 84% from the year ago quarter. The retail segment profit was 9 million which does not include associated manufacturing profit of $52 million. We opened eight stores during the quarter including our first international store in Tokyo, bringing our quarter end open store count to 73. With an average of 69 stores open during the quarter, average quarterly revenue per store increased to $4 million up from 3.1 million in the year ago quarter.
+
+ Traffic through the stores accelerated in the holiday quarter reaching a total of 5.9 million people compared to 4.3 million in the September quarter. This translates into an average of over 6,000 visitors per store per week in the December quarter.
+
+ We are very pleased with the early results of our Tokyo store which opened on November 30. First months sales through the Tokyo store were the highest of any Apple store opening to date, averaging over $1 million per week. We have plans to open additional high profile stores, one in San Francisco in the spring of 2004 and one in Osaka, Japan in the fall.
+
+ For retail in the year ahead, we'll focus on driving comparable store revenue increases with programs aimed at switchers, small business and enhanced services through our already extremely popular genius bar. Our total education channel unit shipments increased 8% from the year ago quarter while revenue was up 20% driven by strong growth in higher education.
+
+ In terms of geographic performance, Europe segment revenues were up 48% year over year while Japan was up 13% and Asia Pacific up 55%. The Americas segment revenue increased 25% year over year. Adding U.S. Apple retail store sales to the America's segment sales yields a 34% year over year increase.
+
+ Gross margin was 26.7%, slightly below our guidance of 27.1%, primarily due to higher warranty expense than expected and an unplanned product transition on the power Mac G5. Operating expenses were 462 million, 7 million higher than expected due to slightly higher advertising expenses as well as variable selling expenses associated with the higher than expected revenue. Operating profit expanded to 3.7% of sales, Apple's highest quarterly operating margin in 13 quarters. Other income and expense was 13 million including 4 million in pretax gains from the sale of Aukamise(ph) shares. The tax rate for the quarter was 28% as expected.
+
+ In terms of the balance sheet, cash was up 225 million sequentially to just under 4.8 billion. The increase in cash was attributable to the strong earnings in the quarter combined with our continued outstanding working capital management. Total capital expenditures for the quarter were 44 million including 28 million for our retail initiative.
+
+ Looking ahead to the March quarter, I'd like to review our outlook which includes the types of forward-looking information that Nancy referred to at the beginning of the call. For the second quarter of fiscal 2004 we expect our third consecutive quarter of year over year double digit growth in both revenue and earnings.
+
+ We are targeting revenue of about $1.8 billion and earnings per diluted share of 8 cents to 10 cents. We expect a sequential increase in gross margins to about 27.5%. We expect operating expenses to remain relatively flat at about 460 million as the seasonal decrease in advertising spending is offset by higher research and development expenses as well as the full impact of employee salary merit increases which became effective on December 1. We expect other income and expense to be about 10 million and we expect the tax rate to be 28%.
+
+ Lastly we planned to retire the 300 million in senior debt on February 17 and become a debt-free company. With that I'd like to open the call to questions.
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Our question and answer session today will be conducted electronically. If you'd like to ask a question, simply press the star key followed by the digit 1 on your touch tone telephone. Once again star 1 if you'd like to ask a question. We'll pause a moment to assemble our question audience. If you are using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. We'll take our first question today from Steve Milunovich from Merrill Lynch.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [2]
+--------------------------------------------------------------------------------
+ Thank you. Could you comment first on the higher warranty expense in the quarter? Exactly what product that was associated with and whether that will continue. Also curious if you can say anything about the relationship with HP in terms of economics and what kind of incremental business that could create in the second half.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [3]
+--------------------------------------------------------------------------------
+ Okay. In terms of the extra warranty expense in the quarter, we had unplanned reserves that we accrued for a higher than normal warranty repairs for certain portable products such as our Power Book 15" product and iBook.
+
+ And the second question was related to HP? We are incredibly optimistic about the announcement last week in terms of HP remarketing an HP branded iPod based upon the Apple iPod product and bundling our iTunes software on all of their consumer PCs. No one can sit here today and predict how much incremental revenue is going to be driven. We'll just have to let the numbers as they evolve speak for themselves. HP is number one in the consumer market. They have incredible distribution reach to the consumer market. So we are very optimistic that this is going to drive significant incremental business for our iPod and iTunes Music Store.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [4]
+--------------------------------------------------------------------------------
+ Was there a particular problem in product reliability with that PowerBook and is lower warranty expense part of the reason you expect a better gross margin in 2Q?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [5]
+--------------------------------------------------------------------------------
+ I think it's been reported that some customers, of course, were reporting the appearance of some faint white spots on their displays after using the system for a short period. Apple and our supplier quickly resolved the problem and any customers experiencing this problem should contact our Apple Care organization. Given this, we felt that it was appropriate to accrue a reserve at the end of our December quarter to provide for these repairs and take care of any ongoing problems. For any new systems being shipped, the problem has been resolved.
+
+--------------------------------------------------------------------------------
+ Steve Milunovich,  Merrill Lynch - Analyst   [6]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [7]
+--------------------------------------------------------------------------------
+ Thanks, Steve.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [8]
+--------------------------------------------------------------------------------
+ Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [9]
+--------------------------------------------------------------------------------
+ We'll go next to Dan Rysis with UBS.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [10]
+--------------------------------------------------------------------------------
+ Good afternoon. Thank you. I wanted to ask you about product availability as well as how you could characterize demand for the Power Macs and the Power Books in the fourth quarter and how they go into this quarter. Obviously the iPod category had a very big surprise but if you could just talk about how you characterize that.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [11]
+--------------------------------------------------------------------------------
+ Sure. Clearly even though we increased the supply of our iPods above what had been originally forecasted for the December quarter, we were unable to meet all of the demand. We clearly had reports of a lot of stock outs of certain models around the world. Even though we had a record quarter of 733,000 iPod unit sales which, as I said, generated 256 million in revenues, and, by the way, that does not include accessories related to the iPod or extended warranty services.
+
+ If you added all those in, it would have been the total revenues related to iPod would have been 270 million. We had a great quarter but it could have been higher had we not had the shortages and what I'll tell you is that we have tremendous momentum going into the March quarter that we've just started and that will be enhanced by the new iPod mini shipping in February as well as the Pepsi Apple promotion, the giveaway of up to 100 million songs. Just couldn't be happier with the iPod but we have to acknowledge that we didn't have enough supply to meet all the demand.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [12]
+--------------------------------------------------------------------------------
+ Did you have to do tradeoffs between the mini and the regular iPods in terms of supplies and with your suppliers.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [13]
+--------------------------------------------------------------------------------
+ No, not to my knowledge. And again the mini iPod won't begin shipping til February. The second question I think you were asking about the Power Mac?
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [14]
+--------------------------------------------------------------------------------
+ Yeah.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [15]
+--------------------------------------------------------------------------------
+ The Power Mac sell-through for the December quarter was actually slightly better than even the September quarter; although, the unit sales were lower and that was because of a couple of factors. One is the normal fill for the channel when you introduce for the first quarter a new product, plus we did decrease our ending channel inventory some on our Power Mac line in the December quarter for the September quarter. We were at our expectations on the Power Mac line, but I will tell you that the duo processor is stronger in terms of the mix of sales being higher end than we would have expected. I view that as a positive.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [16]
+--------------------------------------------------------------------------------
+ The way I should have followed-up to the iPod question is what's the indication of shelf space in your retailers as far as tradeoffs with the other iPod. How is the retail reception going to be? Will it be not as many outlets as the current iPod?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [17]
+--------------------------------------------------------------------------------
+ We're really pleased. We have much broader distribution with our iPod than we do with our Macintosh products or our other products because we have places like Best Buy and Bowe's(ph) and Circuit City, other outlets that are carrying it. I think we have, Peter, over 8000 outlets in terms of retail store fronts around the world. We feel that we have very broad good distribution. That's only going to get enhanced when the HP deal comes online this summer.
+
+--------------------------------------------------------------------------------
+ Ben Reitzes,  UBS - Analyst   [18]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [19]
+--------------------------------------------------------------------------------
+ Thanks, Ben. Can we have the next question, please.
+
+--------------------------------------------------------------------------------
+Operator   [20]
+--------------------------------------------------------------------------------
+ Our next question comes from Richard Gardner with Smith Barney.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [21]
+--------------------------------------------------------------------------------
+ Thank you very much. Fred, you said that part of the gross margin pressure in the quarter was due to the unplanned product transition in the Power Mac line? I'm assuming most of that is airfreight? Was hoping you could confirm that and do you expect to continue to airfreight at all in the March quarter or will that go away. Then also, in your 10-K you had mentioned that gross margins could be under pressure because of aggressive industry pricing and some increases in component costs. Can you talk about whether those were material factors at the gross margin line this quarter at all?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [22]
+--------------------------------------------------------------------------------
+ Okay, I'm going to ask Peter Oppenheimer to answer that question relative to the G5.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [23]
+--------------------------------------------------------------------------------
+ Okay, I'll do the components as well. I'll start with the components, Rich. The component costs that we saw in the December quarter were reasonably in line with our forecast. In terms of the impact to gross margin that Fred talked about in his preamble, that really related to our transition of the product. We reduced price on the single processor 1.6 and 1.8 and we introduced a dual processor 1.8 at virtually the same price point that we had its predecessor product so we saw lower margins as a result of doing that and had some transition costs as well. Airfreight did not really differ materially from what we had in our initial forecast.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [24]
+--------------------------------------------------------------------------------
+ Okay. So it was a combination of just lower margins based on the new pricing structure as well as maybe some price protection, perhaps?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [25]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [26]
+--------------------------------------------------------------------------------
+ There was a little of that and then also some cancellation of POs as a result of changing the configurations of those two. So there were about three different hits we took related to that G4 mid-quarter transition that was unplanned.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [27]
+--------------------------------------------------------------------------------
+ Okay and so, going I guess you had given a gross margin range of 27-28 for the year and I guess going into the next quarter you expect all of these sort of one-time factors to be behind us and to be solidly back in that range again.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [28]
+--------------------------------------------------------------------------------
+ Yes, 27.5% and I'm going to ask Peter to go over about the four reasons for the improvement that we are expecting.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [29]
+--------------------------------------------------------------------------------
+ Right, Rich, let me just start by talking about what we expect to see in the commodity environment first and then there's some other factors as well. For LCDs, we would see supply and demand in equilibrium so prices being relatively flat. For memory, we would expect supply to exceed demand and therefore, see pricing trending down slightly and the other commodities, we would expect a decline at normal rates. So overall, we would see a favorable component cost environment in the March quarter from what we saw in December.
+
+ In addition to that, we would see a better mix of pro product sales in the March quarter and return to more normal warranty expense in the March quarter as well. Slightly offsetting those three positive factors, we expect to have lower software sales as Panther enters the second quarter.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Smith Barney - Analyst   [30]
+--------------------------------------------------------------------------------
+ Great. Thanks, Peter.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [31]
+--------------------------------------------------------------------------------
+ Thanks, Rich. Can we have the next question please?
+
+--------------------------------------------------------------------------------
+Operator   [32]
+--------------------------------------------------------------------------------
+ Our next question comes from Joel Wagonfeld with First Albany Capital.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany Corporation - Analyst   [33]
+--------------------------------------------------------------------------------
+ Thanks, very much. I was wondering, does offering the iTunes software on the Windows platform with HP reduce the effectiveness of your iPod and your iTunes which is driving more of your Mac sales? Is this a change in strategy that we may see in other areas and in light of that, what would you project the mix of non core CPU products to be, say, two to three years out? Thanks.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [34]
+--------------------------------------------------------------------------------
+ Whoa, the last one I'm not going to take out a crystal ball to predict that mix three years out. I just, I am sorry, I don't have that kind of crystal ball. Related to the HP strategic alliance or relationship that will come online this summer, I view that it's a great opportunity to drive incremental sales both of our iPod as well as songs on our Music Store. We will still have one advantage, though, as it relates to a customer who is considering whether they want to stay Windows or may consider next time they buy a second or third computer for the home as to whether they want to buy a Mac.
+
+ The reason is that iTunes is the only application of our digital lifestyle aps, meaning iLife, that is available on Windows. We have iPhoto, iMovie and we have iDVD and broadband, which I think is just phenomenal, that are not available on Windows. So I think that people who enjoy the fantastic experience of using iTunes software and the HP branded iPod may over time say, you know, I'd like the opportunity to enjoy some of the other digital lifestyle software. So, I think there's still a reason for them to want to buy Mac.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany Corporation - Analyst   [35]
+--------------------------------------------------------------------------------
+ Thanks, very much. We shouldn't expect some others to migrate over time?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [36]
+--------------------------------------------------------------------------------
+ No plans to do so.
+
+--------------------------------------------------------------------------------
+ Joel Wagonfeld,  First Albany Corporation - Analyst   [37]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [38]
+--------------------------------------------------------------------------------
+ Thanks, Joel. The next question, please.
+
+--------------------------------------------------------------------------------
+Operator   [39]
+--------------------------------------------------------------------------------
+ Our next question comes from Walter Wynetski, an independent analyst.
+
+--------------------------------------------------------------------------------
+ Walter Wynetski,  Independent - Analyst   [40]
+--------------------------------------------------------------------------------
+ Yes, thanks. I have two questions, Fred. First, relative to software sales, would you care to maybe quantify the impact either on revenues or talk about if it had any significant impact on the gross margin? And second, relative to the HP distribution agreement or a partnership, would it be fair to look at that as more of a one-off distribution type of agreement to increase the installed base as opposed to maybe Apple moving in more of a direction to license its IP in a more general basis?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [41]
+--------------------------------------------------------------------------------
+ I'll take the HP one first and I'll ask Peter to answer the second one. You know, I think Apple viewed this as a tremendous opportunity to have a strategic partner relationship with a great company that could, you know, bring to market our iPod and our iTunes Music Store to a greater number of customers world wide. So, we think that is a win-win situation for both HP and Apple and I wouldn't speculate on any other opportunities like that in the future. Peter, you want to take the revenue and gross margin?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [42]
+--------------------------------------------------------------------------------
+ Sure. Total software sales as shown on the data summary were 238 million, that's software and other, up 54% year over year. So, overall, we did very well in software but would point out specifically Panther. We were very happy with its first quarter. Revenues were over $60 million meeting our expectations and it has gotten rave customer reviews.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [43]
+--------------------------------------------------------------------------------
+ That's the best first quarter upgrade revenue levels that I can remember on a new operating system. It was just phenomenal, the market acceptance for that new operating system, really.
+
+--------------------------------------------------------------------------------
+ Walter Wynetski,  Independent - Analyst   [44]
+--------------------------------------------------------------------------------
+ Fred, did that have a notable or any kind of impact on the gross margin line?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [45]
+--------------------------------------------------------------------------------
+ It had, as expected, we factored in a really strong quarter and it happened. You know, we expect in the second quarter and beyond to even see a stronger performance in terms of follow on quarters with this release of the operating system than prior OS releases. The other reason is we have about almost 10 million various versions of releases of Mac OS 10 out there right now and so this provides a much larger installed base for upgrades. When you come out with one with 150 features like we just did with Panther which ar really significant improvements, you should see your OS upgrade sales go up substantially, and they did.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [46]
+--------------------------------------------------------------------------------
+ Thank you, Walter. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [47]
+--------------------------------------------------------------------------------
+ Our next question today comes from Bill Shope with JP Morgan.
+
+--------------------------------------------------------------------------------
+ Bill Shope,  JP Morgan - Analyst   [48]
+--------------------------------------------------------------------------------
+ Okay, great, thanks. As we are trying to model the new iPod mini, can you tell us whether or not it carries higher or lower margins than the current iPod average just qualitatively? And then, also, could you give us an idea if you had shortages on key notebook components during the December quarter and then, finally could you just give us a qualitative read in what you saw in terms of S&B in the retail stores?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [49]
+--------------------------------------------------------------------------------
+ Sure. Let me first say that the iPod gross margins were better than expected in the first quarter and they were very close to our overall corporate gross margin average due to a strong mix of direct sales in the quarter combined with favorable component costs. What I would say, I don't want to get into because we are also under nondisclosure in terms related to HP and don't want to get into specifically gross margin on the mini iPod but I will tell you, on these two new products roll into as we go into the year into the mix, we're still confident, although we won't be able to maintain the gross margins that we enjoyed that were very good and strong this quarter when you roll in the effect of the HP deal and the mini iPod because they both would have lower gross margins than what we achieved in the current iPod. We still believe we can maintain gross margins even when those roll in at close to 20%.
+
+--------------------------------------------------------------------------------
+ Bill Shope,  JP Morgan - Analyst   [50]
+--------------------------------------------------------------------------------
+ Okay. and the FNB activity in the stores and notebook component availability?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [51]
+--------------------------------------------------------------------------------
+ I am sorry, could you repeat the questions?
+
+--------------------------------------------------------------------------------
+ Bill Shope,  JP Morgan - Analyst   [52]
+--------------------------------------------------------------------------------
+ I just asked the question, just a qualitative read on FNB activity in the stores and, again, shortages on notebook component availability?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [53]
+--------------------------------------------------------------------------------
+ Okay, I am going to ask Peter to answer that.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [54]
+--------------------------------------------------------------------------------
+ I'll start with the notebook components. Across all the quarter, we were able to meet our demand on both the iBook and the PowerBook. I recall panel supply occasionally being a little tight but across the quarter, we were fine and met demand. In terms of the retail, I don't have a quantification of how much FNB sales were of the phenomenal 273 million that Ron had; however, he did make a qualitative comments on the fact he was pleased with both FNB sales, consumer sales as well some of the education programs as well, in terms of reaching out to customers from the stores.
+
+--------------------------------------------------------------------------------
+ Bill Shope,  JP Morgan - Analyst   [55]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [56]
+--------------------------------------------------------------------------------
+ Thank you, Bill. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [57]
+--------------------------------------------------------------------------------
+ We'll go next to Rebecca Runkle with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [58]
+--------------------------------------------------------------------------------
+ Thanks, Fred. Just a couple of follow-up questions. First one, as relates to inventory decrease you saw in the channel for EpowerMac that you saw in the quarter which gave you the lower than expected for my model December sales for EpowerMac, can you talk about the order of magnitude decrease of inventory and where it stands right now and what you expect going forward?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [59]
+--------------------------------------------------------------------------------
+ Well, what we can tell you is, I don't want to get into the individual products, although the EpowerMac drove a significant part of what I am going to say. The channel inventory in terms of units was down 6% at the end of the December quarter from the September quarter.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [60]
+--------------------------------------------------------------------------------
+ And, where you'd like to see it or a little bit lower than you'd like to see it?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [61]
+--------------------------------------------------------------------------------
+ As I said in the preamble, we try to manage our channel inventory and the four to five week range and we were within that range on a look-back basis, we were very much at the low end of that range. Obviously we are expecting sales to decline a little which is the normal industry phenomenon from the December quarter to the March quarter.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [62]
+--------------------------------------------------------------------------------
+ And just qualitatively, a little bit of a follow-up if you can provide some perspective on desktops versus notebooks. I guess what I'm driving at, you talked some of the reasons why EpowerMac was weaker than people perhaps expected and certainly there are some reasons to expect iMac performance as it was but both of those numbers missed, for my model, whereas notebooks exceeded. And why the shift to notebooks is happening at a faster rate or in line with expectations and variances that were more one-time in nature that unfolded in the quarter?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [63]
+--------------------------------------------------------------------------------
+ First thing I would say is, I remember about a year ago Steve said that 2003 would be the year of the portable and it certainly has been for Apple. We've seen, as expected, a significant mix shift away from desk tops to portables and we have two great portable offerings with our PowerBook and iBook. I think that's a lot of it.
+
+ I think the second point on the iMac, the flat panel iMac at $1299 captures a good share of the price bands for products, $1200 or higher, a lot of the consumer market has moved down below the $1,000 price point, as you know. So, that would be my comment there. The combination of moving the portables plus the iMac being priced above where the sweet spot in the market is, below $1,000, has probably contributed to that.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [64]
+--------------------------------------------------------------------------------
+ And, of course, you are not going to comment on plans to address that sweet spot?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [65]
+--------------------------------------------------------------------------------
+ I'm not going to talk about future products relative to any of our products, including the iMac.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [66]
+--------------------------------------------------------------------------------
+ And just, lastly and I apologize if I missed it as I dropped off for a second, specific commentary on what you are seeing in the creative professional market given the strong lineup of products that you currently have, and if you can comment or provide any color, in terms of what type of demand you think is product cycle driven versus overall improvement in the buying pattern of that in market?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [67]
+--------------------------------------------------------------------------------
+ I'll start this and then ask Peter to chime in if he has anything to add to it. What I understand is that, you know, there is this, I guess it is "Trend Watch" that does a twice-a-year survey. The last survey I read for the first time indicated that the number of customers in the creative markets that were saying business conditions were improving, had gone up. So, I think the worst is over because conditions are improving and ad revenues are starting to go up. So, I think the business environment is improving. Clearly, we have strong offerings now with the G5 EpowerMac for that market and having finally all the adds such as the Adobe Photo Shop and Cork Express available on the platform and Panther now out on the market. I think we have the ingredients for improved pro sales of our pro products into the creative markets.
+
+--------------------------------------------------------------------------------
+ Rebecca Runkle,  Morgan Stanley - Analyst   [68]
+--------------------------------------------------------------------------------
+ Thank you so much.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [69]
+--------------------------------------------------------------------------------
+ You're welcome.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [70]
+--------------------------------------------------------------------------------
+ Thanks, Rebecca. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [71]
+--------------------------------------------------------------------------------
+ We will go next to Shannon Cross with Cross Research.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [72]
+--------------------------------------------------------------------------------
+ Hi, good afternoon, guys.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [73]
+--------------------------------------------------------------------------------
+ Hi.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [74]
+--------------------------------------------------------------------------------
+ A couple of questions, one, can you give us an update on what you're seeing in the education market., I think you noted higher education is strong but maybe you can talk a little bit about K through 12? Seems like Schwarzenegger maybe is not going to cut the California budget as much as what was expected and then, an update on your pilot with Best Buy and how that went over the holiday season?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [75]
+--------------------------------------------------------------------------------
+ Okay, I am going to ask Peter to address both of those.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [76]
+--------------------------------------------------------------------------------
+ I will start with Best Buy. Best Buy carries in all of their stores our iPods and we were very pleased with sales in the first quarter. We continued to assort the CPUs in about 50 of their stores and we don't have anything to announce today in terms of expansion of that presence. In terms of education, higher ed was up strongly year over year. In K-12 was down just slightly. Funding requirement in many states as you indicated remains tough but there's money out there available for purchase of computers and we are working hard to get our fair share.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [77]
+--------------------------------------------------------------------------------
+ Okay, great. And then, just a follow-up, I'm curious, in terms of the decrease in channel inventory at the end of the quarter, I know we've hit this a bit, would any of that be sort of prior to the refresh of the EpowerMac line or is this purely just to prepare you guys for sort of a slower quarter as you enter into, you know, '04?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [78]
+--------------------------------------------------------------------------------
+ Clearly we're not going to talk about any potential future products, but, yes, as a normal season matter because your average weekly sell through for the whole industry, I think industry typically goes down 8-10 from the December quarter to the March quarter, a company that's doing the right thing ought to bring down their channel inventory in the December quarter.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [79]
+--------------------------------------------------------------------------------
+ Okay and then in terms of sales of Panther which are stronger than we anticipated for your overall software sales, how should we think about what percent of your installed basis, anything you can give us?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [80]
+--------------------------------------------------------------------------------
+ I can give you a little bit on that. My understanding is we have 20 million of our installed base that would technically be able to upgrade the Macro S-10 and about 50% of that base or 10 million is running some release of Macro S-10. So, about 50% of the base.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [81]
+--------------------------------------------------------------------------------
+ Great. Thanks.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [82]
+--------------------------------------------------------------------------------
+ Of the eligible base. We have a bigger base than 20 million, in total.
+
+--------------------------------------------------------------------------------
+ Shannon Cross,  Cross Research - Analyst   [83]
+--------------------------------------------------------------------------------
+ Okay, thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [84]
+--------------------------------------------------------------------------------
+ Thank you, Shannon, can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [85]
+--------------------------------------------------------------------------------
+ Next we'll go to Charles Wolf with Needham and Company.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company - Analyst   [86]
+--------------------------------------------------------------------------------
+ Yes, I have a couple of questions. How many Pod sales were sold internationally versus domestically?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [87]
+--------------------------------------------------------------------------------
+ Simple answer is a little over two-thirds of the sales in the quarter were in the U.S.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company - Analyst   [88]
+--------------------------------------------------------------------------------
+ Okay and then I noticed in your 10-K you plan to spend about 80 million to expand the Apple stores in 2004 and you spent about 28 million, I believe, in the first quarter. It looks to me you're planning to open around 15 new stores during the year, is that reasonably correct?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [89]
+--------------------------------------------------------------------------------
+ No, we positioned we would have 80 stores by back to school, that could be a couple more. What you have to look at is the number of what I'll call large, high profile stores. If you went to Tokyo, you'd see that was a very incredible store that's a high profile store. In Tokyo, obviously, expected to and has been hitting the first month high sales and a store like that costs more than one in Buffalo, New York which is a small store. Also as we indicated an opening in San Francisco, another high profile store this spring and in the fall another one in Osaka, Japan.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [90]
+--------------------------------------------------------------------------------
+ And Charlie, let me just clarify some of the capital expenditure numbers. In our K we said we would spend about 160 million across the fiscal year of which 85 would be in retail. In Q-1, we spent 44 million and in total of 28 million was for retail.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company - Analyst   [91]
+--------------------------------------------------------------------------------
+ Okay and finally, I'm curious about the Pepsi giveaway. Is Apple sharing the expenses of that giveaway with Pepsi?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [92]
+--------------------------------------------------------------------------------
+ Let me say this, that we have fully incorporated, we are under nondisclosure on that arrangement and we've incorporated into our guidance whatever impact there might be.
+
+--------------------------------------------------------------------------------
+ Charles Wolf,  Needham and Company - Analyst   [93]
+--------------------------------------------------------------------------------
+ Okay. Thanks a lot, Fred.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [94]
+--------------------------------------------------------------------------------
+ Thanks, Charlie. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [95]
+--------------------------------------------------------------------------------
+ We'll go now to Keith Bachman with Banc of America.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [96]
+--------------------------------------------------------------------------------
+ Hi, thanks. I have two questions. When you look at the G5 sales, you mentioned the Panther upgrade and where you are with that. A similar question on G5, do you have any sense about where you might be in terms of upgrade associated with people moving from the G4 to the G5 platform?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [97]
+--------------------------------------------------------------------------------
+ I think we're going to continue to see strong upgrades from our installed base, pro base to the G5 over time here. I've been asked that question before and I think I answered our goal is to sustain EpowerMac sales, total EpowerMac sales at or above the 200,000 unit level. It doesn't mean it all depends when you come out with a new rev to the G5, you might have something that will spike well above that as you get where the later part of the life cycle of the given rev, you might find it dropped slightly below. But I think we can sustain the EpowerMac line sales at least 200,000 units going forward.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [98]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [99]
+--------------------------------------------------------------------------------
+ Per quarter.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [100]
+--------------------------------------------------------------------------------
+ Fair enough. When you think about the 200,000 level per quarter, is there any sense you get about how to dissect that in terms of upgrades versus potential new market converts?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [101]
+--------------------------------------------------------------------------------
+ Well, I can just tell you, well, we could point to one which wasn't an upgrade which was a super computer at Virginia Tech where they bought 11000 dual processor, 1100 I mean, I wish it was 11,000. 1100 G5 Power Macs and that was new. So, you know, you're going to find some new. Typically the majority of those, I can't give you an exact percent but the majority of your sales of the Power Mac line would be existing installed base upgrading to a faster processor.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [102]
+--------------------------------------------------------------------------------
+ Okay. Europe look particularly strong on a year over year basis, also a sequential basis in terms of GOs. Any kind of flavor or color you can give us there?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [103]
+--------------------------------------------------------------------------------
+ Peter, why don't you take that?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [104]
+--------------------------------------------------------------------------------
+ Q1 is Europe's big product quarter typically for the industry and for us so that really explains the sequential increase. We were very pleased though with the growth of 19% in units and 48% in revenue year over year. The revenue growth was nicely in front of the unit growth really reflecting two things: Strong non CPU product sales such as the iPod but also a strong pro quarter in Europe as well which attributed to the revenue growth.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [105]
+--------------------------------------------------------------------------------
+ Okay, one more question, if I can just going back to the upgrade cycles. Any sense on how, I understand the 200 thousand per quarter comment but any sense on the installed base or available target market of G4s, any numbers you think might be relevant or appropriate for an addressable upgrade market from G4 to G5? Is it 20% done, is it 50% done, any kind of thoughts there?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [106]
+--------------------------------------------------------------------------------
+ I'm sorry, I just don't have that visibility.
+
+--------------------------------------------------------------------------------
+ Keith Bachman,  Banc of America - Analyst   [107]
+--------------------------------------------------------------------------------
+ Fair enough. That's all for me. Fair enough.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [108]
+--------------------------------------------------------------------------------
+ Thanks, Keith. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [109]
+--------------------------------------------------------------------------------
+ Our next question comes from Rob Serra with Fulcrum Global Partners.
+
+--------------------------------------------------------------------------------
+ Rob Serra,  Fulcrum Global Partners - Analyst   [110]
+--------------------------------------------------------------------------------
+ Hi, thanks, very much. Just to continue on the EpowerMac. I'm just curious, not sure if you can give color on it but historically part of the importance and strength of the EpowerMac was premium gross margins and I'm guessing you're not there yet because it's an early product cycle but I am just wondering how the gross margin trends have been maybe and then, strategically, is your ultimate goal, would it be to sort of get that back to a high gross margin product or maybe the world is different now, you have to be price competitive and maybe never get back to that type of level, not sure if you can give color about that?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [111]
+--------------------------------------------------------------------------------
+ I'll be clear, the high level priority is to expand the unit sales of our EpowerMac G5 product. You know, it typically is our highest margin product family, but if we have to trade off some margin to drive increase sales of the product family, that's our first priority.
+
+--------------------------------------------------------------------------------
+ Rob Serra,  Fulcrum Global Partners - Analyst   [112]
+--------------------------------------------------------------------------------
+ Is there any reason with the new architecture that would change at all or is it clearly just a pricing issue for you guys?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [113]
+--------------------------------------------------------------------------------
+ I am not sure I understand the pricing versus architecture. You mean, the architecture allows you to reduce costs?
+
+--------------------------------------------------------------------------------
+ Rob Serra,  Fulcrum Global Partners - Analyst   [114]
+--------------------------------------------------------------------------------
+ I guess I'm thinking the other way around. Is the new architecture, does it keep you from getting to the gross margin you used to get to or is that not really an issue, more just a pricing strategy issue for you?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [115]
+--------------------------------------------------------------------------------
+ We are more aggressive on our G5 EpowerMac pricing than we have been if you go back a couple years ago on our G4 EpowerMac. So that's a conscious decision on the company's part to drive increased sales of that EpowerMac line.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [116]
+--------------------------------------------------------------------------------
+ Especially when you consider performance.
+
+--------------------------------------------------------------------------------
+ Rob Serra,  Fulcrum Global Partners - Analyst   [117]
+--------------------------------------------------------------------------------
+ Okay, thank you, very much.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [118]
+--------------------------------------------------------------------------------
+ Thank, Rob. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [119]
+--------------------------------------------------------------------------------
+ Next, we will go to Phil Gucci with Zebra Funds.
+
+--------------------------------------------------------------------------------
+ Phil Gucci,  Zebra Funds - Analyst   [120]
+--------------------------------------------------------------------------------
+ Hi. Can you tell me again what the $3 million of extraordinary income was and also, are there any,I don't want to say plans, I don't you don't talk about future products, where does video movies play in your future projects for iPods or similar things?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [121]
+--------------------------------------------------------------------------------
+ I'm sorry, could you restate your first question and second again? I didn't get it.
+
+--------------------------------------------------------------------------------
+ Phil Gucci,  Zebra Funds - Analyst   [122]
+--------------------------------------------------------------------------------
+ The $3 million of extraordinary income, where did that come from?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [123]
+--------------------------------------------------------------------------------
+ Gary Litsworth, our Treasurer, would you like to answer that?
+
+--------------------------------------------------------------------------------
+ Gary Litsworth,  Apple Computer, Inc. - Treasurer   [124]
+--------------------------------------------------------------------------------
+ Sure. We sold remaining shares of Achemi that we held which drove a pretax gain of $4 million and an after tax gain of $3 million.
+
+--------------------------------------------------------------------------------
+ Phil Gucci,  Zebra Funds - Analyst   [125]
+--------------------------------------------------------------------------------
+ Okay and the second question was if you guys have any plans of, I guess, expanding your iPod concept into video at some point?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [126]
+--------------------------------------------------------------------------------
+ You know, I just have to say we don't talk about future products. I mean, we have a very, very talented group of technical people here at Apple. You know, over 2,500 people in R&D and they can do a lot of things but we are not going to talk about it.
+
+--------------------------------------------------------------------------------
+ Phil Gucci,  Zebra Funds - Analyst   [127]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [128]
+--------------------------------------------------------------------------------
+ Thanks, Phil. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [129]
+--------------------------------------------------------------------------------
+ Our next question comes from Bill Fernly with FTN Midwest Research.
+
+--------------------------------------------------------------------------------
+ Bill Fernly,  FTN Midwest Research - Analyst   [130]
+--------------------------------------------------------------------------------
+ Good afternoon. A couple of quick questions for you. Mix on iPod units, do you have any Windows percentages that you can track with the registration card data?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [131]
+--------------------------------------------------------------------------------
+ Peter, you want to take that?
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [132]
+--------------------------------------------------------------------------------
+ Sure, we are collecting registration cards and doing some surveys but, due to competitive reasons, don't want to release that data.
+
+--------------------------------------------------------------------------------
+ Bill Fernly,  FTN Midwest Research - Analyst   [133]
+--------------------------------------------------------------------------------
+ Okay and on the direct versus indirect percentages, can you provide those on the end market sales and if you could add any color on what percentage was Apple.com?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [134]
+--------------------------------------------------------------------------------
+ Sure. I will do that. First of all, we define direct sales to U.S. education customers, sales to our retail stores and directly to customers on the internet. We were very pleased by the results in the December quarter. Direct revenues were 43% of our total, up from 36% in the year ago quarter. I won't give you a quantitative percent but our internet sales were up appreciably.
+
+--------------------------------------------------------------------------------
+ Bill Fernly,  FTN Midwest Research - Analyst   [135]
+--------------------------------------------------------------------------------
+ Okay and then one last question for you on the peripheral attach you had mentioned before, could you give any color on either revenues or whether the bulk of the peripheral attach was sold with MacIntoshes or what percentage might have been sold stand alone to Macintosh customers after the sale or after they already owned a MacIntosh? Thanks.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [136]
+--------------------------------------------------------------------------------
+ He's asking about sales, Gary?
+
+--------------------------------------------------------------------------------
+ Gary Litsworth,  Apple Computer, Inc. - Treasurer   [137]
+--------------------------------------------------------------------------------
+ Sure. Our non CPU sales, percent of revenue very strong, 37% of total revenues, that was up from 25% in the year ago quarter. The biggest single category was the phenomenal performance of iPod which comprised 13% of our total revenues. In the other products all combined were 24%. I don't have statistics that I can quote for you about when these products are being purchased with CPUs but we and our channel partners are focused on attaching iPods and Apple and display and other products developers make at the point of sale.
+
+--------------------------------------------------------------------------------
+ Bill Fernly,  FTN Midwest Research - Analyst   [138]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [139]
+--------------------------------------------------------------------------------
+ Thanks, Bill. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [140]
+--------------------------------------------------------------------------------
+ We'll go now to John McKeefe with Seminole Capital Partners.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [141]
+--------------------------------------------------------------------------------
+ Thank you. Again on the PowerMacs, could you normalize the numbers or tell us what the sell through was of PowerMacs in the September versus December quarter because I think you said it was up on a sell-through basis, sequentially. If you can't give me the numbers, maybe you can tell us how much it was up on a percentage basis?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [142]
+--------------------------------------------------------------------------------
+ Sell through was up at a double digit rate.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [143]
+--------------------------------------------------------------------------------
+ Sequentially?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [144]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [145]
+--------------------------------------------------------------------------------
+ So what were the weeks of inventory in that product at the end of the September quarter versus December quarter?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [146]
+--------------------------------------------------------------------------------
+ I don't have that in front of me. Here's the issue: Whenever you introduce a new product, right, typically what you do is you have the channel prior to doing that and your first quarter when you introduce a new product, you have to provide some channel fill to get your inventory up to an acceptable level, right? So you would have that in addition to us bringing down the channel inventory from the September quarter to the December quarter, you would have had the benefit to the September quarter of the channel fill.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [147]
+--------------------------------------------------------------------------------
+ Okay. So could this mark the low point maybe for EpowerMac sales going forward, we have the Japanese fiscal ending this quarter and we have the new store there?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [148]
+--------------------------------------------------------------------------------
+ I'm sorry, I am not going to get into projecting product family unit sales by quarter. The only thing, again, I'll reiterate is we believe that we can sustain our EpowerMac sales on a quarterly basis at about 200,000 units. Some quarters it will be a little higher and some quarters it may be a little lower.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [149]
+--------------------------------------------------------------------------------
+ Okay, that's fine and I just have a quick follow-up on interest and other income which had been running at about 25 million. It stepped down this quarter except for the one-time gain on the [Achemi] shares. Shouldn't that come back up or is that going to stay down at these levels going forward for modeling purposes?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [150]
+--------------------------------------------------------------------------------
+ Gary, you want to take that?
+
+--------------------------------------------------------------------------------
+ Gary Litsworth,  Apple Computer, Inc. - Treasurer   [151]
+--------------------------------------------------------------------------------
+ Sure, I would be happy to. Actually, when it was up around $25 million, interest rates were higher, they were up over 2% if you go back a year, year and a half ago. Over the last year, interest rates have been much lower, running in the 1-1.25% range. Our portfolio is kind of short right now because we think that interest rates are about ready to go back up and if interest rates do go back, you'll see OINE rise with that.
+
+--------------------------------------------------------------------------------
+ John McKeefe,  Seminole Capital Partners - Analyst   [152]
+--------------------------------------------------------------------------------
+ Alright, thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [153]
+--------------------------------------------------------------------------------
+ Thanks, John. Can we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [154]
+--------------------------------------------------------------------------------
+ And we would like to remind everyone, if you have a question, press the star key followed by the digit 1 on your touch tone phone. We'll go now to Steven Fortuna with Prudential.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Prudential - Analyst   [155]
+--------------------------------------------------------------------------------
+ A couple of short ones. First, I know you guys have an initiative going on to try to find lower cost rates to produce the Macs and, over time, help build more gross margin. How are you making progress on that, if you could give us a little bit of perspective on that? Then second would be, I guess, guiding to 27-28% gross margin this fiscal year, how do you think about the longer term gross margin for the company, more toward the 28 level or is that getting too aggressive? Lastly, going back to pricing which we believe was extremely aggressive led by HP being very market share driven, I know you can't really quantify it but a sense of the market impact you suffered from HP's pricing relative to the switchers campaign or trying to win over first time buyers and do you feel comfortable with your current price structure for your product portfolio?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [156]
+--------------------------------------------------------------------------------
+ Last one first, we feel comfortable with the pricing of our current product portfolio. You know, we kind of have our own customer base and I don't mean to tell you that we aren't affected somewhat competitively by pricing actions by others but not to the degree of the rest of the Intel world because we have our own Macro S platform. So, I don't have the foggiest idea whether there was any impact from HP or not. My gut tells me, there wasn't.
+
+ In terms of gross margin outlook over the next several years, we've said 27-28% is our goal to manage gross margins in that range. Last year, we were exactly 27.5% composite for the full year. We're guiding to 27.5 this quarter. So, somewhere in the middle of that range is probably as good a guesstimate as any. I don't know what you're talking about on this first question on, we haven't said anything publicly about any project on reduced costs, I don't know what you're referring to.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Prudential - Analyst   [157]
+--------------------------------------------------------------------------------
+ I thought there was some initiative ongoing relative to finding ways to, you know, use lower cost components in the Mac and just, essentially, find lower cost ways to build the machines. I thought that was something that was being talked about or at least, partially underway. That's not correct?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [158]
+--------------------------------------------------------------------------------
+ No, what I would tell you is that our engineering teams and operations are always, you know, looking for ways to deliver the quality product to our high standard specs as low a cost as possible. Beyond that, I don't know of any special project, just an ongoing objective here.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Prudential - Analyst   [159]
+--------------------------------------------------------------------------------
+ Okay, thanks, Fred.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [160]
+--------------------------------------------------------------------------------
+ Thank you, Steve. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [161]
+--------------------------------------------------------------------------------
+ And we'll take our last question today, last question we have from Kevin Hunt with Thomas Weisel Partners.
+
+--------------------------------------------------------------------------------
+ Kevin Hunt,  Thomas Weisel Partners - Analyst   [162]
+--------------------------------------------------------------------------------
+ Thank you, a couple of things. On the balance sheet, the inventory days were up a bit and that's retail stores, do you have a target where that's going to level off in term office days and what that means for cash conversion cycle? Secondly, just wanted to see, was there anything really surprising to you this quarter in terms of up side and down side? I think your iBook was up pretty substantially, I don't know if you planned for that to be the case?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [163]
+--------------------------------------------------------------------------------
+ I would say that the positives were some over performance on the iPod. The record sales on the PowerBook and we had a great quarter, as expected, on the upgrade sales with Panther. Those would be the three highlights I would mention. Second question you had?
+
+--------------------------------------------------------------------------------
+ Kevin Hunt,  Thomas Weisel Partners - Analyst   [164]
+--------------------------------------------------------------------------------
+ Just on the balance sheet?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [165]
+--------------------------------------------------------------------------------
+ Yeah, I'll ask Peter to address that.
+
+--------------------------------------------------------------------------------
+ Peter Oppenheimer,  Apple Computer, Inc. - Senior Vice President of Finance and Controller   [166]
+--------------------------------------------------------------------------------
+ Kevin, on the inventory was up 33 million, roughly two-thirds of that increase was in the stores and about a third was in our Distribution Centers. I don't want to get into giving a specific dollar target on inventory, going forward. We are typically keeping two to three weeks of inventory in the stores. The other factor that contributed positively to cash generation in the quarter and our cash conversion cycle is DSO. It actually was a company record of 27 days, driven by two things, first the quarter was very linear as you expect in the Christmas quarter and also, the higher direct sales played into that as well.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer, Inc. - Executive Vice President and Chief Financial Officer   [167]
+--------------------------------------------------------------------------------
+ And I'd like to pick up on that. I would add to the three I gave you. We had an even better quarter than expected on the part of our own retail stores, so our retail division did a phenomenal job and say the same thing about our Apple online store. Both, we had a higher percent of direct business than I think we expected and they both turned in outstanding quarter performance, both those groups.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer, Inc. - Senior Director of Corporate Finance   [168]
+--------------------------------------------------------------------------------
+ Thanks, Kevin. Recording of today's call will be available for replay via telephone for seven days beginning at about 5:00 P.M. Pacific time today. The number for that replay is 719-457-0820 and the confirmation code is 316102. A replay of the audio webcast of this call will also be available beginning at about 5:00 Pacific time today at www.apple.com/investor and will remain available for approximately 12 months. Members of the press with additional questions can contact Steve Dowling at 408-974-1896. Financial analysts can contact Joan Huber or me with additional questions, Joan is at 408-974-4570 and I am at 408-974-5420 and thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator   [169]
+--------------------------------------------------------------------------------
+ And this does conclude our conference call for today. We would like to thank for your participation. You may disconnect at this time.
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+FINAL TRANSCRIPT: "Final Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2010 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------

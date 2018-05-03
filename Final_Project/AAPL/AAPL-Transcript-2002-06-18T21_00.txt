@@ -1,0 +1,472 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+F I N A L   V E R S I O N
+
+AAPL - Apple Inc.
+Apple Computer Third Quarter Guidance Conference Call
+Jun 18, 2002 / 09:00PM  GMT 
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Nancy Paxton
+      Apple Computer - Director of Investor Relations and Corporate Finance
+   *  Fred Anderson
+      Apple Computer - Executive Vice President and CFO
+   *  Kimberly Alexy
+      Prudential Financial
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Richard Gardner
+      Solomon Smith Barney
+   *  Don Young
+      UBS Warburg
+   *  Andy Neff
+      Bear Stearns
+   *  Todd Smith
+      Morgan Stanley
+   *  Walter Winnitski
+      First Albany
+   *  Steven Fortuna
+      Merrill Lynch
+   *  David Sussman
+      Price Asset Management
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day welcome to this Apple Computer financial analyst conference call. Today's call is being recorded. At this time for opening remarks and introductions I would like to turn the call over to Director of Investor Relations and Corporate Finance, Ms. Nancy Paxton. Please go ahead.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [2]
+--------------------------------------------------------------------------------
+ Good afternoon and thank you to everyone for joining us. Apple issued a press release at approximately 1:30 p.m. Pacific time today revising guidance for its fiscal third quarter. The press release is available on first call as well as on Apple's website at www.apple.com. Speaking today is Apple CFO Fred Anderson. He will be joined by Senior VP of Finance Peter Oppenheimer and VP and Corporate Treasurer Gary Wixler for the Q and A session with the analysts. Please note some of the information you will hear during the call consists of forward-looking statements. And that actual results or trends could differ materially from our forecast.
+
+ For more information, please refer to pages 25 to 32 of Apple's latest Form 10K for the fiscal year ended September 29, 2001. In connection with SEC regulations on corporate disclosure, Apple is making this analyst call open to the media and general public by broadcasting the call live over the internet. And with that I'd like to turn the call over to Fred Anderson.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [3]
+--------------------------------------------------------------------------------
+ Thank you, Nancy. Today we are revising our revenue guidance for the June quarter to $1.4 to $1.45 billion from the $1.6 billion level we had previously indicated. We are also revising EPS guidance to a range of eight cents to 10 cents from previous expectations of 11 cents or slightly higher. The seasonal sales uplift Apple typically experiences did not materialize in the second half of May, and the first week of June.
+
+ We believe there are three primary factors contributing to the shortfall. First, the consumer markets for personal computers are soft around the world. Both independent market researchers and our competitors have recently cited consumer market weakness. Second, as we indicated in our April earnings call, professional customers in creative markets such as advertising and publishing have been delaying purchases of personal computers. These markets have been even weaker than we predicted at the beginning of the quarter. Third, just as Intel indicated earlier this month, we believe that Europe is lagging the U.S. in the general economic slowdown, and our business both there and in Japan has been noticeably softer than in the U.S.
+
+ The financial impact of the revenue shortfall has been mitigated significantly by better than anticipated gross margins. A key contributor to the gross margin improvement is [deram] pricing which has dropped by 50% since the beginning of the quarter. Additionally, the benefits of the iMAC cost reduction efforts we discussed in April have materialized earlier than we expected. As a result of these factors, we expect gross margins this quarter to be up slightly from the March quarter. We are monitoring channel inventory levels closely, and we expect to exit the quarter with channel units relatively flat with the March quarter. We also continue to exercise very disciplined expense controls.
+
+ Despite the tough environment, we are continuing to invest in the future of Apple. Just this quarter, we have introduced several outstanding new products. Including the eMAC for education customers and consumers, the Xserve Rack-mount Server, enhanced ibooks and power books and new and improved iphoto software. We are aggressively marketing our brand and products as is evidenced by our new windows switcher campaign. And we have had several very exciting products or we have several very exciting products in our pipeline. Including Jagwire, the next version of Mac OS10. We remain very optimistic about the long-term growth prospects for Apple. With that, I would like to open the call to questions.
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Thank you. We'll take our first question from Richard Gardener with Solomon, Smith, Barney.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Solomon Smith Barney   [2]
+--------------------------------------------------------------------------------
+ Thanks. A couple of questions. You didn't say anything about education, Fred. Obviously it's a big education quarter. Is education ramping as expected in June?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [3]
+--------------------------------------------------------------------------------
+ What I would say, Rich, as we've highlighted the fact that tax revenues shortfalls in many states have impacted our education business for the last two quarters. In terms of Apple's education business as you know, it's in the June quarter, very back ended in terms of a sales cycle. And so, you know, we expect that June is always historically the biggest month, and we have two weeks left in the quarter. We didn't call it out as one of the areas of weakness because, so far, it's not a major area of weakness. But I would qualify that answer by saying that we have two weeks yet to go, or half the month of June which is historically the big month.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Solomon Smith Barney   [4]
+--------------------------------------------------------------------------------
+ Okay. Then as a follow-up. If gross margins are up slightly and revenues 1.425 or 1.5 it looks like you did have an opportunity to cut back on SG&A significantly this quarter. Am I right in that assumption? What areas have you been cutting?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [5]
+--------------------------------------------------------------------------------
+ What I would say is, if you recall, I had guided down gross margins from the March quarter in the March quarter, you may remember, Rich, they were 27.4%. And I guided down up to 100 basis points.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Solomon Smith Barney   [6]
+--------------------------------------------------------------------------------
+ Right.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [7]
+--------------------------------------------------------------------------------
+ Now, what I'm saying is I think they will be up slightly gross margins, this quarter. So if they are closer to the 28% level. But, it the quarter still has two weeks to go. But I'm telling you I think they will actually be up rather than down from the March quarter. So, we have op-x under tight control. I don't want to give you a number yet, we'll report that, obviously on July 16th we'll report the quarter. But I would expect op-x I guided previously flat, and I think they could actually be down slightly. In terms of op-x from last quarter.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Solomon Smith Barney   [8]
+--------------------------------------------------------------------------------
+ Finally in Europe, Fred, could you give a sense of what customer segments are weak? as opposed to professional and consumer or is it one or the other?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [9]
+--------------------------------------------------------------------------------
+ Basically I would say we are down kind of across the board in Europe.
+
+--------------------------------------------------------------------------------
+ Richard Gardner,  Solomon Smith Barney   [10]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [11]
+--------------------------------------------------------------------------------
+ Thanks Rich, could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [12]
+--------------------------------------------------------------------------------
+ The next question comes from Kimberly Alexy with Prudential Financial.
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [13]
+--------------------------------------------------------------------------------
+ Yes, thanks. A couple of Fred, if you could maybe talk a little about how the mix here had impacted you from a product mix standpoint, 'cause obviously the areas you highlighted would kinda span the mix. Maybe you could just talk about it with respect to the four major product categories if you could. And recognizing you probably don't want to say too much on September. What would you say at this point in terms of how we should think about gauging estimates and sequential growth going into that period based on what you know now?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [14]
+--------------------------------------------------------------------------------
+ Let me take the second one first. We are not going -- we haven't previously given any guidance for the September quarter, as you know. And I don't want to do that on this update on the June quarter. I prefer to wait until we complete the quarter, and have an opportunity to, you know, evaluate where we are, and then provide guidance for the September quarter. So, again my preference is not to get into that at this time. As it relates to product mix, you know, what we wanted to do was focus on both the markets where we saw weakness like consumer, and the creative markets. And to focus on the geographic weakness which, again is Europe and Japan. And, you know, I think that's kind of reinforcing what Intel said a couple weeks ago about seeing weakness in Europe, and clearly, reinforcing the weakness in the consumer market that was echoed by [Capellis] of HP saying the consumer market was very, very soft as I recall a couple weeks ago. So I think we are seeing similar things to what our competitors are.
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [15]
+--------------------------------------------------------------------------------
+ I guess it would be fair to assume, then, that the previous expectations for some of the new iMAC [ships] to be flattish would also be, you would have a lower watermark across the board?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [16]
+--------------------------------------------------------------------------------
+ The reason we didn't get into product mix, again, I would just say right now, you know, kind of was an impact in terms of lower than what we would have expected across all of our product families. Beyond that, I don't want to get into specifics.
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [17]
+--------------------------------------------------------------------------------
+ Great. Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [18]
+--------------------------------------------------------------------------------
+ Thank you, Kimberly. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [19]
+--------------------------------------------------------------------------------
+ The next question comes from Don Young with UBS Warburg.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [20]
+--------------------------------------------------------------------------------
+ Yes. Thank you. Good evening, Fred. Fred, I wanted to ask a question to make sure I understood the release right. Are you saying your consumer trend is universally weak or is it significantly weaker in these international markets? Then I have a follow-up to that and a question on channel inventory.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [21]
+--------------------------------------------------------------------------------
+ Sure. What I'm saying is that the consumer market was soft across all geography. We had a reasonably good April, and I think that we didn't see a slowdown as early as some of our competitors because we had the strength of a new flat-panel iMAC would still [INAUDIBLE] demand. I would say the consumer market, again was a global softening that we saw appear. We didn't get our uplift. They didn't go down in the second half of May, but we normally expect, because of grads and dads, an uplift starting in mid-May all the way through mid-June. And we didn't see the historic uplift there that we expected.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [22]
+--------------------------------------------------------------------------------
+ The follow-up on the channel inventories, as I recall your inventories were quite tight in the channel in the end of March, particularly supply constrained on the new iMAC. Are you managing to an unusually low channel inventory level again in the end of the June quarter because of all the product transitions coming up .
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [23]
+--------------------------------------------------------------------------------
+ No. What I said and I'll reiterate is that we're managing right now to a flat unit channel inventory level. That's where we would like to land. Obviously there's two weeks to go. The end of the June quarter versus the March quarter. What you might remember, though, is that we did have strong shipments of the flat panel iMAC the last 10 days of the March quarter.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [24]
+--------------------------------------------------------------------------------
+ Rough idea of the week's inventory that would imply, Fred?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [25]
+--------------------------------------------------------------------------------
+ I just don't want to get into estimating that now with two weeks to go. We'll certainly give you an update on that on our conference call on July 16th. But, I believe that the unit ending inventory will remain relatively flat.
+
+--------------------------------------------------------------------------------
+ Don Young,  UBS Warburg   [26]
+--------------------------------------------------------------------------------
+ Great. Thank you.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [27]
+--------------------------------------------------------------------------------
+ Thanks, John. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [28]
+--------------------------------------------------------------------------------
+ We go next to Andy Neff with Bear Stearns.
+
+--------------------------------------------------------------------------------
+ Andy Neff,  Bear Stearns   [29]
+--------------------------------------------------------------------------------
+ Hi. I guess it's a question of the price increase you did back a couple months ago. In retrospect do you think that was the right thing to do? Are you considering, do you think it had impact on demand, and are you re-evaluating your pricing strategy right now?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [30]
+--------------------------------------------------------------------------------
+ I can't -- it would be speculative for me to answer whether or not price increase had any impact. At the time we did it in the first few weeks after we certainly didn't think so. But sitting here today, I can't answer that question. As to, you know, future product or pricing plans, you know, we don't discuss what plans we might have. But I will conclude that by saying that we think that our flat panel iMAC has a great value in the market place today. And is very competitively priced. So, you know, that's my view. I don't think we have an issue with pricing on our flat panel iMAC.
+
+--------------------------------------------------------------------------------
+ Andy Neff,  Bear Stearns   [31]
+--------------------------------------------------------------------------------
+ Okay. Any update in general on stores in terms of where you stand towards the expansion? Are you -- how many stores do you have now and what your return plan for that is?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [32]
+--------------------------------------------------------------------------------
+ We have 30 stores open today. And we plan to have almost 50 by the end of the calendar year.
+
+--------------------------------------------------------------------------------
+ Andy Neff,  Bear Stearns   [33]
+--------------------------------------------------------------------------------
+ And will you evaluate that as depending on consumer conditions, or is that hard wired at this point?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [34]
+--------------------------------------------------------------------------------
+ Um -- no, we feel really good about our retail initiative and we have not changed our plan that we outlined several weeks ago. We indicated, I think it was on the conference call, in fact, back in April, mid-April that we would open another 20 stores and close -- with close to 50 in terms of the calendar year.
+
+--------------------------------------------------------------------------------
+ Andy Neff,  Bear Stearns   [35]
+--------------------------------------------------------------------------------
+ Okay. Good. Thank you.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [36]
+--------------------------------------------------------------------------------
+ You're welcome.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [37]
+--------------------------------------------------------------------------------
+ Thank you, Andy. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ As a reminder it is star one for questions. And we go next to Todd Smith with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Todd Smith,  Morgan Stanley   [39]
+--------------------------------------------------------------------------------
+ Hi, it's Todd for Rebecca Runkle. I had a question on the new iMAC in terms of the old iMAC in terms of demand. I know typically you talked in the educational cycle the shift back towards the old iMAC and the lower price. I was wondering if you were seeing that and maybe where you might come out. And also maybe margin implications. Thanks.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [40]
+--------------------------------------------------------------------------------
+ You know, I don't see any real shift going on, you know, in terms of the mix. We didn't give previous guidance on the mix of our iMAC products among flat panel iMAC or CRT based iMAC or the new eMAC which wasn't even known about of course by externally at beginning of the quarter. So I prefer to try to address that when we report our earnings on July 16th. So I would like to just hold that, not get into a discussion of the broad iMAC slash eMAC product mix.
+
+--------------------------------------------------------------------------------
+ Todd Smith,  Morgan Stanley   [41]
+--------------------------------------------------------------------------------
+ Sure. Could I ask a follow-up then. On the professional customers delaying purchases, you know, what's going to be the drive there? How do you get the marked jump started? Are they waiting for more processing power? Are they waiting for applications or are they kind of content on what they have right now?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [42]
+--------------------------------------------------------------------------------
+ Well, I think that, clearly what we said previously, was that we thought that the weak economy, which is particularly been hitting creative markets like the advertising market very hard, combined with them waiting for Adobe Photoshop 7 and Quark Express which are two key pro-aps. We now have, there'll be Photoshop 7. But we also have Jagwire coming which is the new OS, this summer, which has, you know significantly increased functionality. So without getting into, you know, a discussion of relative impacts, those would be the factors.
+
+--------------------------------------------------------------------------------
+ Todd Smith,  Morgan Stanley   [43]
+--------------------------------------------------------------------------------
+ Great. Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [44]
+--------------------------------------------------------------------------------
+ Thank you, Todd. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [45]
+--------------------------------------------------------------------------------
+ Next question comes from Walter Winnitski with First Albany.
+
+--------------------------------------------------------------------------------
+ Walter Winnitski,  First Albany   [46]
+--------------------------------------------------------------------------------
+ Thanks, Fred. I was wondering if you had seen any difference in the sales patterns in the stores versus other channels? The second question you may have answered already, was were there any changes within product lines, ie, were people buying at the lower end of product areas? I think you insinuated you had not seen that or it's too early to tell.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [47]
+--------------------------------------------------------------------------------
+ You are asking the question about our Apple retail stores?
+
+--------------------------------------------------------------------------------
+ Walter Winnitski,  First Albany   [48]
+--------------------------------------------------------------------------------
+ Yes. The first part just had to do, was the retail softer or pretty much closer to plan relative to other channels?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [49]
+--------------------------------------------------------------------------------
+ What I would say is that the retail division had not been immune to the overall consumer weakness in the U.S. retail channel.
+
+--------------------------------------------------------------------------------
+ Walter Winnitski,  First Albany   [50]
+--------------------------------------------------------------------------------
+ And the second question, were people buying within each product area within the lower end? Did you see any noticeable trends to that extent? Kind of what Intel suggested on their conference call.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [51]
+--------------------------------------------------------------------------------
+ No.
+
+--------------------------------------------------------------------------------
+ Walter Winnitski,  First Albany   [52]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [53]
+--------------------------------------------------------------------------------
+ Thanks, Walter. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [54]
+--------------------------------------------------------------------------------
+ Next question comes from Steven Fortuna with Merrill Lynch.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [55]
+--------------------------------------------------------------------------------
+ Quick question, Fred. I mean from a competitive landscape standpoint, obviously you have Dell out there driving you very, very hard on the consumer side with a lot of success. I think they are tracking okay. Gateway has been particularly aggressive since the middle of January with their price nook. Do you think there's any kind of the competitive element to the shortfall here at all?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [56]
+--------------------------------------------------------------------------------
+ No, but we'll have to wait and see what the industry data says. I will relate what I do know about the March quarter. Apple actually picked up market share according to IDC of four tenths of a percent in the U.S. In the March quarter and picked up three tenths of a percent globally. So, you know, I think -- I can't say what's going to happen here, you know. We -- if we, you know land in that 1.4 to 1.45 range, particularly if it's at the higher end of the range it's a very slight decline from the 1.495 from the last quarter. So a lot of it will depend upon what happens to the total market in terms of units which, you know, I can't speculate on.
+
+--------------------------------------------------------------------------------
+ Steven Fortuna,  Merrill Lynch   [57]
+--------------------------------------------------------------------------------
+ Fair enough. Thanks, Fred.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [58]
+--------------------------------------------------------------------------------
+ Thanks Steve, could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator   [59]
+--------------------------------------------------------------------------------
+ As a reminder it is star one if you would like to ask a question. We'll take a follow-up question from Kimberly Alexy with Prudential financial.
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [60]
+--------------------------------------------------------------------------------
+ Thanks. Just real quickly. Fred, about a month ago now I guess you launched some interesting promotional programs at the store level a variety that go through July 4th. I was hoping you could comment in terms of how you think that has affected or not affected the overall sales environment, whether or not it's served to stimulate demand and how you feel about those types of programs and their usage going forward?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [61]
+--------------------------------------------------------------------------------
+ You are talking about our Apple retail store?
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [62]
+--------------------------------------------------------------------------------
+ Exactly.
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [63]
+--------------------------------------------------------------------------------
+ The only thing I can tell you, is that our head of our retail division, Ron Johnson believed that the programs were well accepted by our customers. And he's very excited by the Apple switcher campaign that started a week ago. There is a lot of momentum building on that, a lot of enthusiasm. I'll just site anecdotally, he's indicated we've actually are having people come into our Apple stores and saying I'm a switcher, which is really a great statement. You know, we would like to have many more of those.
+
+--------------------------------------------------------------------------------
+ Kimberly Alexy,  Prudential Financial   [64]
+--------------------------------------------------------------------------------
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [65]
+--------------------------------------------------------------------------------
+ Thanks, Kimberly. Could we have the next question, please.?
+
+--------------------------------------------------------------------------------
+Operator   [66]
+--------------------------------------------------------------------------------
+ Our next question comes from David Sussman with Price Asset Management.
+
+--------------------------------------------------------------------------------
+ David Sussman,  Price Asset Management   [67]
+--------------------------------------------------------------------------------
+ Fred, hi. I was going to ask about the stores, also. Do you have any figures for revenue comparison, you know stores that have been open a year, or new visitors as a result of the new campaign?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [68]
+--------------------------------------------------------------------------------
+ No. We will, as we did last quarter, give an update on our retail division, our retail store business when we have our conference call following the earnings release on July 16th.
+
+--------------------------------------------------------------------------------
+ David Sussman,  Price Asset Management   [69]
+--------------------------------------------------------------------------------
+ So you won't be giving us any guidance today on percentage of revenue that's coming through the physical stores versus online store?
+
+--------------------------------------------------------------------------------
+ Fred Anderson,  Apple Computer - Executive Vice President and CFO   [70]
+--------------------------------------------------------------------------------
+ Sorry, that kind of detail, I think, is best left, you know and we are not tracking to give publically, anyway, year-over-year same store sales earnings or anything like that. I mean, you know, our retail -- own retail stores are not a high percent of Apple's business today and we just had our anniversary in May of our first opening of a store.
+
+--------------------------------------------------------------------------------
+ David Sussman,  Price Asset Management   [71]
+--------------------------------------------------------------------------------
+ Okay. Thanks a lot.
+
+--------------------------------------------------------------------------------
+ Nancy Paxton,  Apple Computer - Director of Investor Relations and Corporate Finance   [72]
+--------------------------------------------------------------------------------
+ Thank you, David. And thanks to everyone for joining us this afternoon. A recording of today's call will be available for replay for seven days beginning at 5:30 p.m. Pacific time today. The number for the replay is 719-457-0820 and the confirmation code is 631127. Members of the press can contact Lynn Fox at 408-974-6209 with additional questions. Financial analysts can contact Joan Hoover or me with additional questions. Joan is at 408-974-4570 and my number is 408-974-5420. Thanks again for joining us.
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+FINAL TRANSCRIPT: "Final Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2010 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------
